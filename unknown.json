@@ -1,0 +1,17 @@
+{
+    "name": "unknown",
+    "marketName": "UNKNOWN",
+    "wikiName": "unknown",
+    "dlc": "unknown",
+    "image": "unknown",
+    "stats": {
+        "Stability": 0,
+        "Firerate": 0,
+        "Concealment": 0,
+        "Threat": 0,
+        "Ammo": 0,
+        "Magazine": 0,
+        "Accuracy": 0,
+        "Damage": 0
+    }
+}

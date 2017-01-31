@@ -1,0 +1,16 @@
+{
+    "name": "contraband",
+    "marketName": "LITTLE FRIEND 7.62 ASSAULT RIFLE",
+    "wikiName": "Little_Friend_7.62",
+    "dlc": "chicopack",
+    "image": "contraband",
+    "stats": {
+        "Stability": 44,
+        "Concealment": 8,
+        "Threat": 22,
+        "Ammo": 40,
+        "Magazine": 20,
+        "Accuracy": 72,
+        "Damage": 160
+    }
+}

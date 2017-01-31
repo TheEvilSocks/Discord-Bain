@@ -1,0 +1,17 @@
+{
+    "name": "p90",
+    "marketName": "KOBUS 90 SUBMACHINE GUN",
+    "wikiName": "Kobus_90",
+    "dlc": "Normal",
+    "image": "p90",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 909,
+        "Concealment": 25,
+        "Threat": 12,
+        "Ammo": 150,
+        "Magazine": 50,
+        "Accuracy": 52,
+        "Damage": 38
+    }
+}

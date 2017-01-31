@@ -1,0 +1,17 @@
+{
+    "name": "aa12",
+    "marketName": "STEAKOUT 12G SHOTGUN",
+    "wikiName": "Steakout_12G",
+    "dlc": "bbq",
+    "image": "aa12",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 300,
+        "Concealment": 9,
+        "Threat": 28,
+        "Ammo": 72,
+        "Magazine": 8,
+        "Accuracy": 28,
+        "Damage": 33
+    }
+}

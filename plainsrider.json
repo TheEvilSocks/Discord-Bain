@@ -1,0 +1,17 @@
+{
+    "name": "plainsrider",
+    "marketName": "PLAINSRIDER BOW",
+    "wikiName": "Plainsrider_Bow",
+    "dlc": "westpack",
+    "image": "plainsrider",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 300,
+        "Concealment": 30,
+        "Threat": 37,
+        "Ammo": 50,
+        "Magazine": 1,
+        "Accuracy": 96,
+        "Damage": 194
+    }
+}

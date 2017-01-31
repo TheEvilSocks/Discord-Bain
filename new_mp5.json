@@ -1,0 +1,17 @@
+{
+    "name": "new_mp5",
+    "marketName": "COMPACT-5 SUBMACHINE GUN",
+    "wikiName": "Compact-5_(Payday_2)",
+    "dlc": "Normal",
+    "image": "new_mp5",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 750,
+        "Concealment": 23,
+        "Threat": 6,
+        "Ammo": 210,
+        "Magazine": 30,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

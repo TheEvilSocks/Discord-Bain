@@ -1,0 +1,17 @@
+{
+    "name": "rota",
+    "marketName": "GOLIATH 12G",
+    "wikiName": "Goliath_12G",
+    "dlc": "Normal",
+    "image": "rota",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 333,
+        "Concealment": 13,
+        "Threat": 28,
+        "Ammo": 54,
+        "Magazine": 6,
+        "Accuracy": 56,
+        "Damage": 42
+    }
+}

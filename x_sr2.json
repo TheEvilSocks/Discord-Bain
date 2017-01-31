@@ -1,0 +1,17 @@
+{
+    "name": "x_sr2",
+    "marketName": "AKIMBO HEATHER SUBMACHINE GUNS",
+    "wikiName": "Akimbo_Heather_Submachine_Guns",
+    "dlc": "Normal",
+    "image": "x_sr2",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 750,
+        "Concealment": 25,
+        "Threat": 9,
+        "Ammo": 192,
+        "Magazine": 64,
+        "Accuracy": 52,
+        "Damage": 40
+    }
+}

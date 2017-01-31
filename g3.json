@@ -1,0 +1,17 @@
+{
+    "name": "g3",
+    "marketName": "GEWEHR 3 RIFLE",
+    "wikiName": "Gewehr_3",
+    "dlc": "Gage_Assault_Pack",
+    "image": "g3",
+    "stats": {
+        "Stability": 48,
+        "Firerate": 652,
+        "Concealment": 12,
+        "Threat": 26,
+        "Ammo": 100,
+        "Magazine": 20,
+        "Accuracy": 68,
+        "Damage": 80
+    }
+}

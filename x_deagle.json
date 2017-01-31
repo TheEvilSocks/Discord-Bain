@@ -1,0 +1,17 @@
+{
+    "name": "x_deagle",
+    "marketName": "AKIMBO DEAGLE PISTOLS",
+    "wikiName": "Akimbo_Deagle",
+    "dlc": "Normal",
+    "image": "x_deagle",
+    "stats": {
+        "Stability": 28,
+        "Firerate": 240,
+        "Concealment": 26,
+        "Threat": 24,
+        "Ammo": 60,
+        "Magazine": 20,
+        "Accuracy": 76,
+        "Damage": 145
+    }
+}

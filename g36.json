@@ -1,0 +1,17 @@
+{
+    "name": "g36",
+    "marketName": "JP36 RIFLE",
+    "wikiName": "JP36",
+    "dlc": "Normal",
+    "image": "g36",
+    "stats": {
+        "Stability": 64,
+        "Firerate": 706,
+        "Concealment": 19,
+        "Threat": 13,
+        "Ammo": 240,
+        "Magazine": 30,
+        "Accuracy": 40,
+        "Damage": 36
+    }
+}

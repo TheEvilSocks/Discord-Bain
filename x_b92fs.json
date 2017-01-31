@@ -1,0 +1,17 @@
+{
+    "name": "x_b92fs",
+    "marketName": "AKIMBO BERNETTI 9 PISTOLS",
+    "wikiName": "Akimbo_Bernetti_9",
+    "dlc": "Normal",
+    "image": "x_b92fs",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 667,
+        "Concealment": 28,
+        "Threat": 6,
+        "Ammo": 168,
+        "Magazine": 28,
+        "Accuracy": 52,
+        "Damage": 37
+    }
+}

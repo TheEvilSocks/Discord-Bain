@@ -1,0 +1,17 @@
+{
+    "name": "x_1911",
+    "marketName": "AKIMBO CROSSKILL PISTOLS",
+    "wikiName": "Akimbo_Crosskill",
+    "dlc": "Normal",
+    "image": "x_1911",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 500,
+        "Concealment": 27,
+        "Threat": 10,
+        "Ammo": 100,
+        "Magazine": 20,
+        "Accuracy": 68,
+        "Damage": 65
+    }
+}

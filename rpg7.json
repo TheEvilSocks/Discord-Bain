@@ -1,0 +1,17 @@
+{
+    "name": "rpg7",
+    "marketName": "HRL-7 ROCKET LAUNCHER",
+    "wikiName": "HRL-7",
+    "dlc": "overkillpack",
+    "image": "rpg7",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 30,
+        "Concealment": 5,
+        "Threat": 37,
+        "Ammo": 4,
+        "Magazine": 1,
+        "Accuracy": 96,
+        "Damage": 10000
+    }
+}

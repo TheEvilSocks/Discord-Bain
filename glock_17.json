@@ -1,0 +1,17 @@
+{
+    "name": "glock_17",
+    "marketName": "CHIMANO 88 PISTOL",
+    "wikiName": "Chimano_88",
+    "dlc": "Normal",
+    "image": "glock_17",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 500,
+        "Concealment": 30,
+        "Threat": 8,
+        "Ammo": 153,
+        "Magazine": 17,
+        "Accuracy": 52,
+        "Damage": 35
+    }
+}

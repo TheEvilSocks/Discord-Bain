@@ -1,0 +1,17 @@
+{
+    "name": "benelli",
+    "marketName": "M1014 SHOTGUN",
+    "wikiName": "M1014",
+    "dlc": "Gage_Shotgun_Pack",
+    "image": "benelli",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 429,
+        "Concealment": 12,
+        "Threat": 26,
+        "Ammo": 64,
+        "Magazine": 8,
+        "Accuracy": 28,
+        "Damage": 40
+    }
+}

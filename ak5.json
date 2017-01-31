@@ -1,0 +1,17 @@
+{
+    "name": "ak5",
+    "marketName": "AK5 RIFLE",
+    "wikiName": "Ak_5",
+    "dlc": "Normal",
+    "image": "ak5",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 706,
+        "Concealment": 18,
+        "Threat": 14,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 60,
+        "Damage": 38
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "wa2000",
+    "marketName": "LEBENSAUGER .308 SNIPER RIFLE",
+    "wikiName": "Lebensauger_.308",
+    "dlc": "ninjapack",
+    "image": "wa2000",
+    "stats": {
+        "Stability": 20,
+        "Firerate": 120,
+        "Concealment": 16,
+        "Threat": 12,
+        "Ammo": 40,
+        "Magazine": 10,
+        "Accuracy": 92,
+        "Damage": 160
+    }
+}

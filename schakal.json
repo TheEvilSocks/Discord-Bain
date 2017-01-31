@@ -1,0 +1,17 @@
+{
+    "name": "schakal",
+    "marketName": "JACKAL SUBMACHINE GUN",
+    "wikiName": "Jackal",
+    "dlc": "jwpack",
+    "image": "schakal",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 652,
+        "Concealment": 24,
+        "Threat": 10,
+        "Ammo": 90,
+        "Magazine": 30,
+        "Accuracy": 60,
+        "Damage": 80
+    }
+}

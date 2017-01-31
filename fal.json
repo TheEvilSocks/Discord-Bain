@@ -1,0 +1,17 @@
+{
+    "name": "fal",
+    "marketName": "FALCON RIFLE",
+    "wikiName": "Falcon",
+    "dlc": "Big_Bank_Heist",
+    "image": "fal",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 698,
+        "Concealment": 10,
+        "Threat": 22,
+        "Ammo": 100,
+        "Magazine": 20,
+        "Accuracy": 68,
+        "Damage": 80
+    }
+}

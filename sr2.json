@@ -1,0 +1,17 @@
+{
+    "name": "sr2",
+    "marketName": "HEATHER SUBMACHINE GUN",
+    "wikiName": "Heather_Submachine_Gun",
+    "dlc": "Normal",
+    "image": "sr2",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 750,
+        "Concealment": 25,
+        "Threat": 10,
+        "Ammo": 160,
+        "Magazine": 32,
+        "Accuracy": 52,
+        "Damage": 42
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ppk",
+    "marketName": "GRUBER KURZ PISTOL",
+    "wikiName": "Gruber_Kurz",
+    "dlc": "Armored_Transport",
+    "image": "ppk",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 667,
+        "Concealment": 30,
+        "Threat": 4,
+        "Ammo": 154,
+        "Magazine": 14,
+        "Accuracy": 44,
+        "Damage": 37
+    }
+}

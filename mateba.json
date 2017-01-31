@@ -1,0 +1,17 @@
+{
+    "name": "mateba",
+    "marketName": "MATEVER .357",
+    "wikiName": "Matever_.357",
+    "dlc": "alessoheist",
+    "image": "mateba",
+    "stats": {
+        "Stability": 12,
+        "Firerate": 286,
+        "Concealment": 20,
+        "Threat": 24,
+        "Ammo": 54,
+        "Magazine": 6,
+        "Accuracy": 84,
+        "Damage": 180
+    }
+}

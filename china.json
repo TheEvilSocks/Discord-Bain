@@ -1,0 +1,17 @@
+{
+    "name": "china",
+    "marketName": "CHINA PUFF 40MM GRENADE LAUNCHER",
+    "wikiName": "China_Puff_40mm",
+    "dlc": "wolfpackdlc",
+    "image": "china",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 50,
+        "Concealment": 18,
+        "Threat": 37,
+        "Ammo": 6,
+        "Magazine": 3,
+        "Accuracy": 96,
+        "Damage": 340
+    }
+}

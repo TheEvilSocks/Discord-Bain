@@ -1,0 +1,17 @@
+{
+    "name": "desertfox",
+    "marketName": "DESERTFOX SNIPER RIFLE",
+    "wikiName": "Desertfox",
+    "dlc": "jwpack",
+    "image": "desertfox",
+    "stats": {
+        "Stability": 12,
+        "Firerate": 60,
+        "Concealment": 19,
+        "Threat": 28,
+        "Ammo": 30,
+        "Magazine": 5,
+        "Accuracy": 76,
+        "Damage": 300
+    }
+}

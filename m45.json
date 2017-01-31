@@ -1,0 +1,17 @@
+{
+    "name": "m45",
+    "marketName": "SWEDISH K SUBMACHINE GUN",
+    "wikiName": "Swedish_K",
+    "dlc": "Armored_Transport",
+    "image": "m45",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 600,
+        "Concealment": 24,
+        "Threat": 10,
+        "Ammo": 80,
+        "Magazine": 40,
+        "Accuracy": 68,
+        "Damage": 80
+    }
+}

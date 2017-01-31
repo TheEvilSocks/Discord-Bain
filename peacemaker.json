@@ -1,0 +1,17 @@
+{
+    "name": "peacemaker",
+    "marketName": "PEACEMAKER .45 REVOLVER",
+    "wikiName": "Peacemaker_.45",
+    "dlc": "westpack",
+    "image": "peacemaker",
+    "stats": {
+        "Stability": 12,
+        "Firerate": 240,
+        "Concealment": 26,
+        "Threat": 28,
+        "Ammo": 54,
+        "Magazine": 6,
+        "Accuracy": 84,
+        "Damage": 180
+    }
+}

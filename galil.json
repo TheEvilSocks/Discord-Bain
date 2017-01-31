@@ -1,0 +1,17 @@
+{
+    "name": "galil",
+    "marketName": "GECKO 7.62 RIFLE",
+    "wikiName": "Gecko_7.62",
+    "dlc": "Gage_Assault_Pack",
+    "image": "galil",
+    "stats": {
+        "Stability": 68,
+        "Firerate": 845,
+        "Concealment": 15,
+        "Threat": 24,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 48,
+        "Damage": 42
+    }
+}

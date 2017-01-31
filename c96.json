@@ -1,0 +1,17 @@
+{
+    "name": "c96",
+    "marketName": "BROOMSTICK PISTOL",
+    "wikiName": "Broomstick",
+    "dlc": "Gage_Historical",
+    "image": "c96",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 667,
+        "Concealment": 28,
+        "Threat": 10,
+        "Ammo": 150,
+        "Magazine": 10,
+        "Accuracy": 44,
+        "Damage": 37
+    }
+}

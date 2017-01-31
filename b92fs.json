@@ -1,0 +1,17 @@
+{
+    "name": "b92fs",
+    "marketName": "BERNETTI 9 PISTOL",
+    "wikiName": "Bernetti_9",
+    "dlc": "Normal",
+    "image": "b92fs",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 667,
+        "Concealment": 30,
+        "Threat": 6,
+        "Ammo": 154,
+        "Magazine": 14,
+        "Accuracy": 56,
+        "Damage": 37
+    }
+}

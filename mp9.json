@@ -1,0 +1,17 @@
+{
+    "name": "mp9",
+    "marketName": "CMP SUBMACHINE GUN",
+    "wikiName": "CMP",
+    "dlc": "Normal",
+    "image": "mp9",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 952,
+        "Concealment": 26,
+        "Threat": 8,
+        "Ammo": 210,
+        "Magazine": 30,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "saiga",
+    "marketName": "IZHMA 12G SHOTGUN",
+    "wikiName": "IZHMA_12G",
+    "dlc": "Normal",
+    "image": "saiga",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 333,
+        "Concealment": 13,
+        "Threat": 28,
+        "Ammo": 70,
+        "Magazine": 7,
+        "Accuracy": 28,
+        "Damage": 33
+    }
+}

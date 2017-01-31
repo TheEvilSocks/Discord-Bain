@@ -1,0 +1,17 @@
+{
+    "name": "m95",
+    "marketName": "THANATOS .50 CAL SNIPER RIFLE",
+    "wikiName": "Thanatos_.50_cal",
+    "dlc": "Gage_Sniper_Pack",
+    "image": "m95",
+    "stats": {
+        "Stability": 4,
+        "Firerate": 40,
+        "Concealment": 1,
+        "Threat": 37,
+        "Ammo": 15,
+        "Magazine": 5,
+        "Accuracy": 92,
+        "Damage": 2900
+    }
+}

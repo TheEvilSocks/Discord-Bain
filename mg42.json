@@ -1,0 +1,17 @@
+{
+    "name": "mg42",
+    "marketName": "BUZZSAW 42 LIGHT MACHINE GUN",
+    "wikiName": "Buzzsaw_42",
+    "dlc": "Gage_Historical",
+    "image": "mg42",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 1200,
+        "Concealment": 2,
+        "Threat": 31,
+        "Ammo": 450,
+        "Magazine": 150,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

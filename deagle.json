@@ -1,0 +1,17 @@
+{
+    "name": "deagle",
+    "marketName": "DEAGLE PISTOL",
+    "wikiName": "Deagle",
+    "dlc": "Normal",
+    "image": "deagle",
+    "stats": {
+        "Stability": 28,
+        "Firerate": 400,
+        "Concealment": 28,
+        "Threat": 24,
+        "Ammo": 50,
+        "Magazine": 10,
+        "Accuracy": 76,
+        "Damage": 145
+    }
+}

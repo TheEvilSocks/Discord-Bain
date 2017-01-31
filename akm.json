@@ -1,0 +1,17 @@
+{
+    "name": "akm",
+    "marketName": "AK.762 RIFLE",
+    "wikiName": "AK.762",
+    "dlc": "Normal",
+    "image": "akm",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 561,
+        "Concealment": 13,
+        "Threat": 22,
+        "Ammo": 90,
+        "Magazine": 30,
+        "Accuracy": 60,
+        "Damage": 80
+    }
+}

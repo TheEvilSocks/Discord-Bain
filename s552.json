@@ -1,0 +1,17 @@
+{
+    "name": "s552",
+    "marketName": "COMMANDO 553 RIFLE",
+    "wikiName": "Commando_553",
+    "dlc": "Armored_Transport",
+    "image": "s552",
+    "stats": {
+        "Stability": 56,
+        "Firerate": 714,
+        "Concealment": 22,
+        "Threat": 12,
+        "Ammo": 240,
+        "Magazine": 30,
+        "Accuracy": 36,
+        "Damage": 35
+    }
+}

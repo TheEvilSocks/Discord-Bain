@@ -1,0 +1,17 @@
+{
+    "name": "hajk",
+    "marketName": "CR 805B SUBMACHINE GUN",
+    "wikiName": "CR_805B",
+    "dlc": "bikerheistpack",
+    "image": "hajk",
+    "stats": {
+        "Stability": 68,
+        "Firerate": 750,
+        "Concealment": 18,
+        "Threat": 10,
+        "Ammo": 90,
+        "Magazine": 30,
+        "Accuracy": 72,
+        "Damage": 80
+    }
+}

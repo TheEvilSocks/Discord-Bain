@@ -1,0 +1,17 @@
+{
+    "name": "r93",
+    "marketName": "R93 SNIPER RIFLE",
+    "wikiName": "R93",
+    "dlc": "Gage_Sniper_Pack",
+    "image": "r93",
+    "stats": {
+        "Stability": 12,
+        "Firerate": 50,
+        "Concealment": 5,
+        "Threat": 31,
+        "Ammo": 30,
+        "Magazine": 6,
+        "Accuracy": 92,
+        "Damage": 280
+    }
+}

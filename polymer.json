@@ -1,0 +1,17 @@
+{
+    "name": "polymer",
+    "marketName": "KROSS VERTEX SUBMACHINE GUN",
+    "wikiName": "Kross_Vertex",
+    "dlc": "ninjapack",
+    "image": "polymer",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 1200,
+        "Concealment": 20,
+        "Threat": 10,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 52,
+        "Damage": 42
+    }
+}

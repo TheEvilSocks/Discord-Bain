@@ -1,0 +1,17 @@
+{
+    "name": "asval",
+    "marketName": "VALKYRIA RIFLE",
+    "wikiName": "Valkyria",
+    "dlc": "sokolpack",
+    "image": "asval",
+    "stats": {
+        "Stability": 64,
+        "Firerate": 896,
+        "Concealment": 26,
+        "Threat": 0,
+        "Ammo": 220,
+        "Magazine": 20,
+        "Accuracy": 56,
+        "Damage": 36
+    }
+}

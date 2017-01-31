@@ -1,0 +1,17 @@
+{
+    "name": "jowi",
+    "marketName": "AKIMBO CHIMANO COMPACT PISTOLS",
+    "wikiName": "Akimbo_Chimano_Compact",
+    "dlc": "Normal",
+    "image": "jowi",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 667,
+        "Concealment": 30,
+        "Threat": 9,
+        "Ammo": 160,
+        "Magazine": 20,
+        "Accuracy": 52,
+        "Damage": 37
+    }
+}

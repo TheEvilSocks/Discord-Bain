@@ -1,0 +1,17 @@
+{
+    "name": "vhs",
+    "marketName": "LION'S ROAR RIFLE",
+    "wikiName": "Lion's_Roar",
+    "dlc": "draganpack",
+    "image": "vhs",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 857,
+        "Concealment": 17,
+        "Threat": 12,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 60,
+        "Damage": 40
+    }
+}

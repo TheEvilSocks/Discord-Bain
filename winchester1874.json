@@ -1,0 +1,17 @@
+{
+    "name": "winchester1874",
+    "marketName": "REPEATER 1874 SNIPER RIFLE",
+    "wikiName": "Repeater_1874",
+    "dlc": "westpack",
+    "image": "winchester1874",
+    "stats": {
+        "Stability": 20,
+        "Firerate": 86,
+        "Concealment": 12,
+        "Threat": 28,
+        "Ammo": 45,
+        "Magazine": 15,
+        "Accuracy": 92,
+        "Damage": 160
+    }
+}

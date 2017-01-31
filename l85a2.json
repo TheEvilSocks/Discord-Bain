@@ -1,0 +1,17 @@
+{
+    "name": "l85a2",
+    "marketName": "QUEEN'S WRATH RIFLE",
+    "wikiName": "Queen’s_Wrath",
+    "dlc": "cloverpack",
+    "image": "l85a2",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 723,
+        "Concealment": 16,
+        "Threat": 12,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 64,
+        "Damage": 40
+    }
+}

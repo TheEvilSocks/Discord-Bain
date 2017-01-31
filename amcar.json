@@ -1,0 +1,17 @@
+{
+    "name": "amcar",
+    "marketName": "AMCAR RIFLE",
+    "wikiName": "AMCAR_(Payday_2)",
+    "dlc": "Normal",
+    "image": "amcar",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 545,
+        "Concealment": 21,
+        "Threat": 14,
+        "Ammo": 220,
+        "Magazine": 20,
+        "Accuracy": 36,
+        "Damage": 36
+    }
+}

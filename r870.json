@@ -1,0 +1,17 @@
+{
+    "name": "r870",
+    "marketName": "REINFELD 880 SHOTGUN",
+    "wikiName": "Reinfeld_880",
+    "dlc": "Normal",
+    "image": "r870",
+    "stats": {
+        "Stability": 32,
+        "Firerate": 104,
+        "Concealment": 11,
+        "Threat": 28,
+        "Ammo": 42,
+        "Magazine": 6,
+        "Accuracy": 40,
+        "Damage": 59
+    }
+}

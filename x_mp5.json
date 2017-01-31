@@ -1,0 +1,17 @@
+{
+    "name": "x_mp5",
+    "marketName": "AKIMBO COMPACT-5 SUBMACHINE GUNS",
+    "wikiName": "Akimbo_Compact-5",
+    "dlc": "Normal",
+    "image": "x_mp5",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 750,
+        "Concealment": 23,
+        "Threat": 6,
+        "Ammo": 240,
+        "Magazine": 60,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

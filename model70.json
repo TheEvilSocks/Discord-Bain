@@ -1,0 +1,17 @@
+{
+    "name": "model70",
+    "marketName": "PLATYPUS 70 SNIPER RIFLE",
+    "wikiName": "Platypus_70",
+    "dlc": "Community",
+    "image": "model70",
+    "stats": {
+        "Stability": 12,
+        "Firerate": 60,
+        "Concealment": 6,
+        "Threat": 28,
+        "Ammo": 30,
+        "Magazine": 5,
+        "Accuracy": 92,
+        "Damage": 280
+    }
+}

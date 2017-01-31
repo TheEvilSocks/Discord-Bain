@@ -1,0 +1,17 @@
+{
+    "name": "b682",
+    "marketName": "JOCELINE O/U 12G SHOTGUN",
+    "wikiName": "Joceline_O/U_12G",
+    "dlc": "Community",
+    "image": "b682",
+    "stats": {
+        "Stability": 28,
+        "Firerate": 500,
+        "Concealment": 5,
+        "Threat": 37,
+        "Ammo": 28,
+        "Magazine": 2,
+        "Accuracy": 60,
+        "Damage": 145
+    }
+}

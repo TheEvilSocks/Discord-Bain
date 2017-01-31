@@ -1,0 +1,17 @@
+{
+    "name": "spas12",
+    "marketName": "PREDATOR 12G SHOTGUN",
+    "wikiName": "Predator_12",
+    "dlc": "Community",
+    "image": "spas12",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 300,
+        "Concealment": 14,
+        "Threat": 28,
+        "Ammo": 66,
+        "Magazine": 6,
+        "Accuracy": 28,
+        "Damage": 40
+    }
+}

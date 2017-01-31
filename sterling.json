@@ -1,0 +1,17 @@
+{
+    "name": "sterling",
+    "marketName": "PATCHETT L2A1 SUBMACHINE GUN",
+    "wikiName": "Patchett_L2A1",
+    "dlc": "Gage_Historical",
+    "image": "sterling",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 545,
+        "Concealment": 20,
+        "Threat": 12,
+        "Ammo": 220,
+        "Magazine": 20,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

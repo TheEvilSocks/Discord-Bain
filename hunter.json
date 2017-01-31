@@ -1,0 +1,17 @@
+{
+    "name": "hunter",
+    "marketName": "PISTOL CROSSBOW",
+    "wikiName": "Pistol_Crossbow",
+    "dlc": "ninjapack",
+    "image": "hunter",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 50,
+        "Concealment": 26,
+        "Threat": 10,
+        "Ammo": 25,
+        "Magazine": 1,
+        "Accuracy": 96,
+        "Damage": 100
+    }
+}

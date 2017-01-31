@@ -1,0 +1,17 @@
+{
+    "name": "new_m14",
+    "marketName": "M308 RIFLE",
+    "wikiName": "M308_(Payday_2)",
+    "dlc": "Normal",
+    "image": "new_m14",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 706,
+        "Concealment": 8,
+        "Threat": 31,
+        "Ammo": 70,
+        "Magazine": 10,
+        "Accuracy": 84,
+        "Damage": 160
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "msr",
+    "marketName": "RATTLESNAKE SNIPER RIFLE",
+    "wikiName": "Rattlesnake",
+    "dlc": "Gage_Sniper_Pack",
+    "image": "msr",
+    "stats": {
+        "Stability": 28,
+        "Firerate": 60,
+        "Concealment": 5,
+        "Threat": 26,
+        "Ammo": 40,
+        "Magazine": 10,
+        "Accuracy": 88,
+        "Damage": 160
+    }
+}

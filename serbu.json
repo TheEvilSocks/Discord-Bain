@@ -1,0 +1,17 @@
+{
+    "name": "serbu",
+    "marketName": "LOCOMOTIVE 12G SHOTGUN",
+    "wikiName": "Locomotive_12G_(Payday_2)",
+    "dlc": "Normal",
+    "image": "serbu",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 160,
+        "Concealment": 23,
+        "Threat": 28,
+        "Ammo": 42,
+        "Magazine": 6,
+        "Accuracy": 48,
+        "Damage": 58
+    }
+}

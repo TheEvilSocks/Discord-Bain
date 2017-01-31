@@ -1,0 +1,17 @@
+{
+    "name": "mac10",
+    "marketName": "MARK 10 SUBMACHINE GUN",
+    "wikiName": "Mark_10",
+    "dlc": "Normal",
+    "image": "mac10",
+    "stats": {
+        "Stability": 64,
+        "Firerate": 1000,
+        "Concealment": 27,
+        "Threat": 10,
+        "Ammo": 160,
+        "Magazine": 40,
+        "Accuracy": 48,
+        "Damage": 40
+    }
+}

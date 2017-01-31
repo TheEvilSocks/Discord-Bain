@@ -1,0 +1,17 @@
+{
+    "name": "g26",
+    "marketName": "CHIMANO COMPACT PISTOL",
+    "wikiName": "Chimano_Compact",
+    "dlc": "Community",
+    "image": "g26",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 667,
+        "Concealment": 30,
+        "Threat": 4,
+        "Ammo": 150,
+        "Magazine": 10,
+        "Accuracy": 52,
+        "Damage": 37
+    }
+}

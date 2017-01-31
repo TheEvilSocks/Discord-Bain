@@ -1,0 +1,17 @@
+{
+    "name": "judge",
+    "marketName": "THE JUDGE SHOTGUN",
+    "wikiName": "The_Judge",
+    "dlc": "Community",
+    "image": "judge",
+    "stats": {
+        "Stability": 28,
+        "Firerate": 500,
+        "Concealment": 29,
+        "Threat": 28,
+        "Ammo": 25,
+        "Magazine": 5,
+        "Accuracy": 52,
+        "Damage": 95
+    }
+}

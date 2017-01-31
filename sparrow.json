@@ -1,0 +1,17 @@
+{
+    "name": "sparrow",
+    "marketName": "BABY DEAGLE",
+    "wikiName": "Baby_Deagle",
+    "dlc": "Community",
+    "image": "sparrow",
+    "stats": {
+        "Stability": 32,
+        "Firerate": 667,
+        "Concealment": 29,
+        "Threat": 9,
+        "Ammo": 60,
+        "Magazine": 12,
+        "Accuracy": 68,
+        "Damage": 145
+    }
+}

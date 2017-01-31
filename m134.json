@@ -1,0 +1,17 @@
+{
+    "name": "m134",
+    "marketName": "VULCAN MINIGUN",
+    "wikiName": "Vulcan_Minigun",
+    "dlc": "overkillpack",
+    "image": "m134",
+    "stats": {
+        "Stability": 4,
+        "Firerate": 3000,
+        "Concealment": 5,
+        "Threat": 31,
+        "Ammo": 750,
+        "Magazine": 750,
+        "Accuracy": 16,
+        "Damage": 38
+    }
+}

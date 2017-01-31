@@ -1,0 +1,17 @@
+{
+    "name": "scar",
+    "marketName": "EAGLE HEAVY RIFLE",
+    "wikiName": "Eagle_Heavy",
+    "dlc": "Gage_Weapon_Pack_01",
+    "image": "scar",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 612,
+        "Concealment": 8,
+        "Threat": 22,
+        "Ammo": 100,
+        "Magazine": 20,
+        "Accuracy": 72,
+        "Damage": 81
+    }
+}

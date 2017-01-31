@@ -1,0 +1,17 @@
+{
+    "name": "hk21",
+    "marketName": "BRENNER-21 LIGHT MACHINE GUN",
+    "wikiName": "Brenner_21_(Payday_2)",
+    "dlc": "Gage_Weapon_Pack_02",
+    "image": "hk21",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 723,
+        "Concealment": 2,
+        "Threat": 37,
+        "Ammo": 300,
+        "Magazine": 150,
+        "Accuracy": 36,
+        "Damage": 40
+    }
+}

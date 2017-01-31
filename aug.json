@@ -1,0 +1,17 @@
+{
+    "name": "aug",
+    "marketName": "UAR RIFLE",
+    "wikiName": "UAR",
+    "dlc": "Normal",
+    "image": "aug",
+    "stats": {
+        "Stability": 40,
+        "Firerate": 750,
+        "Concealment": 20,
+        "Threat": 14,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 64,
+        "Damage": 38
+    }
+}

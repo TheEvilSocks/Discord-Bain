@@ -1,0 +1,17 @@
+{
+    "name": "x_akmsu",
+    "marketName": "AKIMBO KRINKOV SUBMACHINE GUNS",
+    "wikiName": "Akimbo_Krinkov",
+    "dlc": "Normal",
+    "image": "x_akmsu",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 822,
+        "Concealment": 21,
+        "Threat": 22,
+        "Ammo": 120,
+        "Magazine": 60,
+        "Accuracy": 60,
+        "Damage": 80
+    }
+}

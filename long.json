@@ -1,0 +1,17 @@
+{
+    "name": "long",
+    "marketName": "ENGLISH LONGBOW",
+    "wikiName": "English_Longbow",
+    "dlc": "chivalrypack",
+    "image": "long",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 300,
+        "Concealment": 29,
+        "Threat": 37,
+        "Ammo": 35,
+        "Magazine": 1,
+        "Accuracy": 96,
+        "Damage": 650
+    }
+}

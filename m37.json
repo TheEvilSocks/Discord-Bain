@@ -1,0 +1,17 @@
+{
+    "name": "m37",
+    "marketName": "GSPS 12G SHOTGUN",
+    "wikiName": "GSPS_12G",
+    "dlc": "thegoatsimulatorpack",
+    "image": "m37",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 104,
+        "Concealment": 22,
+        "Threat": 28,
+        "Ammo": 42,
+        "Magazine": 7,
+        "Accuracy": 44,
+        "Damage": 59
+    }
+}

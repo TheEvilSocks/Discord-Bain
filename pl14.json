@@ -1,0 +1,17 @@
+{
+    "name": "pl14",
+    "marketName": "White Streak Pistol",
+    "wikiName": "White_Streak",
+    "dlc": "Normal",
+    "image": "pl14",
+    "stats": {
+        "Stability": 32,
+        "Firerate": 667,
+        "Concealment": 29,
+        "Threat": 9,
+        "Ammo": 60,
+        "Magazine": 12,
+        "Accuracy": 68,
+        "Damage": 145
+    }
+}

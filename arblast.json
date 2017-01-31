@@ -1,0 +1,17 @@
+{
+    "name": "arblast",
+    "marketName": "HEAVY CROSSBOW",
+    "wikiName": "Heavy_Crossbow",
+    "dlc": "chivalrypack",
+    "image": "arblast",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 21,
+        "Concealment": 28,
+        "Threat": 10,
+        "Ammo": 35,
+        "Magazine": 1,
+        "Accuracy": 96,
+        "Damage": 530
+    }
+}

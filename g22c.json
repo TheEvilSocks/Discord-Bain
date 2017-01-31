@@ -1,0 +1,17 @@
+{
+    "name": "g22c",
+    "marketName": "CHIMANO CUSTOM PISTOL",
+    "wikiName": "Chimano_Custom",
+    "dlc": "Community",
+    "image": "g22c",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 750,
+        "Concealment": 29,
+        "Threat": 9,
+        "Ammo": 96,
+        "Magazine": 16,
+        "Accuracy": 68,
+        "Damage": 65
+    }
+}

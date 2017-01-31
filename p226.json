@@ -1,0 +1,17 @@
+{
+    "name": "p226",
+    "marketName": "SIGNATURE .40 PISTOL",
+    "wikiName": "Signature_.40",
+    "dlc": "Gage_Weapon_Pack_01",
+    "image": "p226",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 667,
+        "Concealment": 29,
+        "Threat": 9,
+        "Ammo": 84,
+        "Magazine": 12,
+        "Accuracy": 68,
+        "Damage": 65
+    }
+}

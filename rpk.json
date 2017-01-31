@@ -1,0 +1,17 @@
+{
+    "name": "rpk",
+    "marketName": "RPK LIGHT MACHINE GUN",
+    "wikiName": "RPK",
+    "dlc": "Gage_Weapon_Pack_02",
+    "image": "rpk",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 750,
+        "Concealment": 5,
+        "Threat": 22,
+        "Ammo": 300,
+        "Magazine": 100,
+        "Accuracy": 28,
+        "Damage": 40
+    }
+}

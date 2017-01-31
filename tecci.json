@@ -1,0 +1,17 @@
+{
+    "name": "tecci",
+    "marketName": "BOOTLEG",
+    "wikiName": "Bootleg",
+    "dlc": "sydneypack",
+    "image": "tecci",
+    "stats": {
+        "Stability": 32,
+        "Firerate": 706,
+        "Concealment": 25,
+        "Threat": 31,
+        "Ammo": 99,
+        "Magazine": 33,
+        "Accuracy": 80,
+        "Damage": 65
+    }
+}

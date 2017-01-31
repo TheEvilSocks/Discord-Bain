@@ -1,0 +1,17 @@
+{
+    "name": "scorpion",
+    "marketName": "COBRA SUBMACHINE GUN",
+    "wikiName": "Cobra",
+    "dlc": "hotline_miami_dlc",
+    "image": "scorpion",
+    "stats": {
+        "Stability": 68,
+        "Firerate": 1000,
+        "Concealment": 28,
+        "Threat": 6,
+        "Ammo": 220,
+        "Magazine": 20,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "mosin",
+    "marketName": "NAGANT SNIPER RIFLE",
+    "wikiName": "Nagant",
+    "dlc": "Gage_Historical",
+    "image": "mosin",
+    "stats": {
+        "Stability": 12,
+        "Firerate": 60,
+        "Concealment": 6,
+        "Threat": 28,
+        "Ammo": 25,
+        "Magazine": 5,
+        "Accuracy": 92,
+        "Damage": 280
+    }
+}

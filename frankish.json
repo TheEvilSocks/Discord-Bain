@@ -1,0 +1,17 @@
+{
+    "name": "frankish",
+    "marketName": "LIGHT CROSSBOW",
+    "wikiName": "Light_Crossbow",
+    "dlc": "chivalrypack",
+    "image": "frankish",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 40,
+        "Concealment": 29,
+        "Threat": 10,
+        "Ammo": 50,
+        "Magazine": 1,
+        "Accuracy": 96,
+        "Damage": 240
+    }
+}

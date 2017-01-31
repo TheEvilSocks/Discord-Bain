@@ -1,0 +1,17 @@
+{
+    "name": "baka",
+    "marketName": "MICRO UZI SUBMACHINE GUN",
+    "wikiName": "Micro_Uzi",
+    "dlc": "yakuzapack",
+    "image": "baka",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 1200,
+        "Concealment": 29,
+        "Threat": 10,
+        "Ammo": 224,
+        "Magazine": 32,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

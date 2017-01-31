@@ -1,0 +1,17 @@
+{
+    "name": "saw",
+    "marketName": "OVE9000 SAW",
+    "wikiName": "OVE9000",
+    "dlc": "Normal",
+    "image": "saw",
+    "stats": {
+        "Stability": 24,
+        "Firerate": 400,
+        "Concealment": 16,
+        "Threat": 24,
+        "Ammo": 300,
+        "Magazine": 150,
+        "Accuracy": 8,
+        "Damage": 23
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "colt_1911",
+    "marketName": "CROSSKILL PISTOL",
+    "wikiName": "Crosskill",
+    "dlc": "Normal",
+    "image": "colt_1911",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 500,
+        "Concealment": 29,
+        "Threat": 10,
+        "Ammo": 90,
+        "Magazine": 10,
+        "Accuracy": 68,
+        "Damage": 65
+    }
+}

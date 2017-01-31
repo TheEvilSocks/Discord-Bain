@@ -1,0 +1,17 @@
+{
+    "name": "flamethrower_mk2",
+    "marketName": "FLAMETHROWER",
+    "wikiName": "Flamethrower",
+    "dlc": "bbq",
+    "image": "flamethrower_mk2",
+    "stats": {
+        "Stability": 0,
+        "Firerate": 2000,
+        "Concealment": 7,
+        "Threat": 37,
+        "Ammo": 600,
+        "Magazine": 300,
+        "Accuracy": 0,
+        "Damage": 14
+    }
+}

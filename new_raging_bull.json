@@ -1,0 +1,17 @@
+{
+    "name": "new_raging_bull",
+    "marketName": "BRONCO .44 REVOLVER",
+    "wikiName": "Bronco_.44_(Payday_2)",
+    "dlc": "Normal",
+    "image": "new_raging_bull",
+    "stats": {
+        "Stability": 4,
+        "Firerate": 286,
+        "Concealment": 26,
+        "Threat": 24,
+        "Ammo": 54,
+        "Magazine": 6,
+        "Accuracy": 76,
+        "Damage": 175
+    }
+}

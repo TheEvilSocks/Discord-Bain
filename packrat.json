@@ -1,0 +1,17 @@
+{
+    "name": "packrat",
+    "marketName": "CONTRACTOR PISTOL",
+    "wikiName": "Contractor_(pistol)",
+    "dlc": "jwpack",
+    "image": "packrat",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 361,
+        "Concealment": 29,
+        "Threat": 9,
+        "Ammo": 90,
+        "Magazine": 15,
+        "Accuracy": 68,
+        "Damage": 66
+    }
+}

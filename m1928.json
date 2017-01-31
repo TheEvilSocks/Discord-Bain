@@ -1,0 +1,17 @@
+{
+    "name": "m1928",
+    "marketName": "CHICAGO TYPEWRITER SUBMACHINE GUN",
+    "wikiName": "Chicago_Typewriter",
+    "dlc": "Community",
+    "image": "m1928",
+    "stats": {
+        "Stability": 68,
+        "Firerate": 723,
+        "Concealment": 18,
+        "Threat": 12,
+        "Ammo": 150,
+        "Magazine": 50,
+        "Accuracy": 48,
+        "Damage": 40
+    }
+}

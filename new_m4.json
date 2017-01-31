@@ -1,0 +1,17 @@
+{
+    "name": "new_m4",
+    "marketName": "CAR-4 RIFLE",
+    "wikiName": "CAR-4",
+    "dlc": "Normal",
+    "image": "new_m4",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 600,
+        "Concealment": 20,
+        "Threat": 14,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 44,
+        "Damage": 38
+    }
+}

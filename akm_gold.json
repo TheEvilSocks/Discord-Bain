@@ -1,0 +1,17 @@
+{
+    "name": "akm_gold",
+    "marketName": "GOLDEN AK.762 RIFLE",
+    "wikiName": "Golden_AK.762",
+    "dlc": "Community",
+    "image": "akm_gold",
+    "stats": {
+        "Stability": 44,
+        "Firerate": 561,
+        "Concealment": 11,
+        "Threat": 22,
+        "Ammo": 90,
+        "Magazine": 30,
+        "Accuracy": 60,
+        "Damage": 80
+    }
+}

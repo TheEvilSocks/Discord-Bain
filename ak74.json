@@ -1,0 +1,17 @@
+{
+    "name": "ak74",
+    "marketName": "AK RIFLE",
+    "wikiName": "AK_(Payday_2)",
+    "dlc": "Normal",
+    "image": "ak74",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 652,
+        "Concealment": 16,
+        "Threat": 14,
+        "Ammo": 150,
+        "Magazine": 30,
+        "Accuracy": 48,
+        "Damage": 40
+    }
+}

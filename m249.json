@@ -1,0 +1,17 @@
+{
+    "name": "m249",
+    "marketName": "KSP LIGHT MACHINE GUN",
+    "wikiName": "KSP",
+    "dlc": "Gage_Weapon_Pack_02",
+    "image": "m249",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 909,
+        "Concealment": 2,
+        "Threat": 31,
+        "Ammo": 400,
+        "Magazine": 200,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

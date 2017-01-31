@@ -1,0 +1,17 @@
+{
+    "name": "x_g17",
+    "marketName": "AKIMBO CHIMANO 88 PISTOLS",
+    "wikiName": "Akimbo_Chimano_88",
+    "dlc": "Normal",
+    "image": "x_g17",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 500,
+        "Concealment": 30,
+        "Threat": 8,
+        "Ammo": 170,
+        "Magazine": 34,
+        "Accuracy": 52,
+        "Damage": 37
+    }
+}

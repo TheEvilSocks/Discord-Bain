@@ -1,0 +1,17 @@
+{
+    "name": "sub2000",
+    "marketName": "CAVITY 9MM",
+    "wikiName": "Cavity_9mm",
+    "dlc": "casinodlc",
+    "image": "sub2000",
+    "stats": {
+        "Stability": 32,
+        "Firerate": 706,
+        "Concealment": 25,
+        "Threat": 31,
+        "Ammo": 99,
+        "Magazine": 33,
+        "Accuracy": 80,
+        "Damage": 65
+    }
+}

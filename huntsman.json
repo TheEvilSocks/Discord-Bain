@@ -1,0 +1,17 @@
+{
+    "name": "huntsman",
+    "marketName": "MOSCONI 12G SHOTGUN",
+    "wikiName": "Mosconi_12G",
+    "dlc": "Normal",
+    "image": "huntsman",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 500,
+        "Concealment": 7,
+        "Threat": 37,
+        "Ammo": 32,
+        "Magazine": 2,
+        "Accuracy": 60,
+        "Damage": 145
+    }
+}

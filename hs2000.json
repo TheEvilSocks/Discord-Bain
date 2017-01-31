@@ -1,0 +1,17 @@
+{
+    "name": "hs2000",
+    "marketName": "LEO PISTOL",
+    "wikiName": "LEO",
+    "dlc": "thebombpack",
+    "image": "hs2000",
+    "stats": {
+        "Stability": 52,
+        "Firerate": 667,
+        "Concealment": 29,
+        "Threat": 9,
+        "Ammo": 95,
+        "Magazine": 19,
+        "Accuracy": 68,
+        "Damage": 65
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "par",
+    "marketName": "KSP 58",
+    "wikiName": "Ksp_58",
+    "dlc": "community",
+    "image": "par",
+    "stats": {
+        "Stability": 36,
+        "Firerate": 909,
+        "Concealment": 2,
+        "Threat": 31,
+        "Ammo": 400,
+        "Magazine": 200,
+        "Accuracy": 32,
+        "Damage": 37
+    }
+}

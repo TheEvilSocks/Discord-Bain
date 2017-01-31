@@ -1,0 +1,17 @@
+{
+    "name": "x_packrat",
+    "marketName": "AKIMBO CONTRACTOR PISTOL",
+    "wikiName": "Akimbo_Contractor",
+    "dlc": "jwpack",
+    "image": "x_packrat",
+    "stats": {
+        "Stability": 60,
+        "Firerate": 361,
+        "Concealment": 27,
+        "Threat": 9,
+        "Ammo": 90,
+        "Magazine": 30,
+        "Accuracy": 68,
+        "Damage": 66
+    }
+}

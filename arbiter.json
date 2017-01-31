@@ -1,0 +1,17 @@
+{
+    "name": "arbiter",
+    "marketName": "ARBITER",
+    "wikiName": "Arbiter",
+    "dlc": "Special",
+    "image": "arbiter",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 80,
+        "Concealment": 18,
+        "Threat": 37,
+        "Ammo": 15,
+        "Magazine": 5,
+        "Accuracy": 96,
+        "Damage": 700
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "blastersmg",
+    "marketName": "BLASTER 9MM SUBMACHINE GUN",
+    "wikiName": "Blaster_9mm",
+    "dlc": "hotline_miami_dlc",
+    "image": "tec9",
+    "stats": {
+        "Stability": 76,
+        "Firerate": 896,
+        "Concealment": 27,
+        "Threat": 12,
+        "Ammo": 220,
+        "Magazine": 20,
+        "Accuracy": 28,
+        "Damage": 36
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "gre_m79",
+    "marketName": "GL40 GRENADE LAUNCHER",
+    "wikiName": "GL40_(Payday_2)",
+    "dlc": "Gage_Assault_Pack",
+    "image": "gre_m79",
+    "stats": {
+        "Stability": 96,
+        "Firerate": 30,
+        "Concealment": 18,
+        "Threat": 37,
+        "Ammo": 6,
+        "Magazine": 1,
+        "Accuracy": 96,
+        "Damage": 340
+    }
+}
