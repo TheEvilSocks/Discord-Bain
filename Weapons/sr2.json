@@ -1,17 +1,21 @@
 {
     "name": "sr2",
-    "marketName": "HEATHER SUBMACHINE GUN",
+    "fullName": "HEATHER SUBMACHINE GUN",
     "wikiName": "Heather_Submachine_Gun",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "sr2",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 750,
-        "Concealment": 25,
-        "Threat": 10,
-        "Ammo": 160,
-        "Magazine": 32,
-        "Accuracy": 52,
-        "Damage": 42
+        "magazine": 32,
+        "ammo": 160,
+        "firerate": 750,
+        "damage": 42,
+        "accuracy": 52,
+        "stability": 52,
+        "concealment": 25,
+        "threat": 10
     }
 }

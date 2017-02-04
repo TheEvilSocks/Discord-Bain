@@ -1,17 +1,21 @@
 {
     "name": "amcar",
-    "marketName": "AMCAR RIFLE",
+    "fullName": "AMCAR RIFLE",
     "wikiName": "AMCAR_(Payday_2)",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "amcar",
+    "slot": "primary",
+    "type": "assault_rifle",
+    "unlock": 0,
+    "cost": 43000,
     "stats": {
-        "Stability": 76,
-        "Firerate": 545,
-        "Concealment": 21,
-        "Threat": 14,
-        "Ammo": 220,
-        "Magazine": 20,
-        "Accuracy": 36,
-        "Damage": 36
+        "magazine": 20,
+        "ammo": 220,
+        "firerate": 545,
+        "damage": 36,
+        "accuracy": 36,
+        "stability": 76,
+        "concealment": 21,
+        "threat": 14
     }
 }

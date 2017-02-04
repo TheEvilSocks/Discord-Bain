@@ -1,17 +1,21 @@
 {
     "name": "flamethrower_mk2",
-    "marketName": "FLAMETHROWER",
+    "fullName": "FLAMETHROWER",
     "wikiName": "Flamethrower",
     "dlc": "bbq",
     "image": "flamethrower_mk2",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 0,
-        "Firerate": 2000,
-        "Concealment": 7,
-        "Threat": 37,
-        "Ammo": 600,
-        "Magazine": 300,
-        "Accuracy": 0,
-        "Damage": 14
+        "magazine": 300,
+        "ammo": 600,
+        "firerate": 2000,
+        "damage": 14,
+        "accuracy": 0,
+        "stability": 0,
+        "concealment": 7,
+        "threat": 37
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "p90",
-    "marketName": "KOBUS 90 SUBMACHINE GUN",
+    "fullName": "KOBUS 90 SUBMACHINE GUN",
     "wikiName": "Kobus_90",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "p90",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 909,
-        "Concealment": 25,
-        "Threat": 12,
-        "Ammo": 150,
-        "Magazine": 50,
-        "Accuracy": 52,
-        "Damage": 38
+        "magazine": 50,
+        "ammo": 150,
+        "firerate": 909,
+        "damage": 38,
+        "accuracy": 52,
+        "stability": 60,
+        "concealment": 25,
+        "threat": 12
     }
 }

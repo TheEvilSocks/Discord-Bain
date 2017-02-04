@@ -1,17 +1,21 @@
 {
     "name": "x_1911",
-    "marketName": "AKIMBO CROSSKILL PISTOLS",
+    "fullName": "AKIMBO CROSSKILL PISTOLS",
     "wikiName": "Akimbo_Crosskill",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "x_1911",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 500,
-        "Concealment": 27,
-        "Threat": 10,
-        "Ammo": 100,
-        "Magazine": 20,
-        "Accuracy": 68,
-        "Damage": 65
+        "magazine": 20,
+        "ammo": 100,
+        "firerate": 500,
+        "damage": 65,
+        "accuracy": 68,
+        "stability": 52,
+        "concealment": 27,
+        "threat": 10
     }
 }

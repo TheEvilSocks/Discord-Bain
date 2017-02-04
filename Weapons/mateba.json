@@ -1,17 +1,21 @@
 {
     "name": "mateba",
-    "marketName": "MATEVER .357",
+    "fullName": "MATEVER .357",
     "wikiName": "Matever_.357",
     "dlc": "alessoheist",
     "image": "mateba",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 12,
-        "Firerate": 286,
-        "Concealment": 20,
-        "Threat": 24,
-        "Ammo": 54,
-        "Magazine": 6,
-        "Accuracy": 84,
-        "Damage": 180
+        "magazine": 6,
+        "ammo": 54,
+        "firerate": 286,
+        "damage": 180,
+        "accuracy": 84,
+        "stability": 12,
+        "concealment": 20,
+        "threat": 24
     }
 }

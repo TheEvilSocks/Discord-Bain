@@ -1,17 +1,21 @@
 {
     "name": "new_m4",
-    "marketName": "CAR-4 RIFLE",
+    "fullName": "CAR-4 RIFLE",
     "wikiName": "CAR-4",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "new_m4",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 600,
-        "Concealment": 20,
-        "Threat": 14,
-        "Ammo": 150,
-        "Magazine": 30,
-        "Accuracy": 44,
-        "Damage": 38
+        "magazine": 30,
+        "ammo": 150,
+        "firerate": 600,
+        "damage": 38,
+        "accuracy": 44,
+        "stability": 60,
+        "concealment": 20,
+        "threat": 14
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "g26",
-    "marketName": "CHIMANO COMPACT PISTOL",
+    "fullName": "CHIMANO COMPACT PISTOL",
     "wikiName": "Chimano_Compact",
-    "dlc": "Community",
+    "dlc": "community",
     "image": "g26",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 667,
-        "Concealment": 30,
-        "Threat": 4,
-        "Ammo": 150,
-        "Magazine": 10,
-        "Accuracy": 52,
-        "Damage": 37
+        "magazine": 10,
+        "ammo": 150,
+        "firerate": 667,
+        "damage": 37,
+        "accuracy": 52,
+        "stability": 60,
+        "concealment": 30,
+        "threat": 4
     }
 }

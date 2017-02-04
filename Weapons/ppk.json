@@ -1,17 +1,21 @@
 {
     "name": "ppk",
-    "marketName": "GRUBER KURZ PISTOL",
+    "fullName": "GRUBER KURZ PISTOL",
     "wikiName": "Gruber_Kurz",
-    "dlc": "Armored_Transport",
+    "dlc": "armored_transport",
     "image": "ppk",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 667,
-        "Concealment": 30,
-        "Threat": 4,
-        "Ammo": 154,
-        "Magazine": 14,
-        "Accuracy": 44,
-        "Damage": 37
+        "magazine": 14,
+        "ammo": 154,
+        "firerate": 667,
+        "damage": 37,
+        "accuracy": 44,
+        "stability": 60,
+        "concealment": 30,
+        "threat": 4
     }
 }

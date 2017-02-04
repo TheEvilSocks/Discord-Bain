@@ -1,17 +1,21 @@
 {
     "name": "fal",
-    "marketName": "FALCON RIFLE",
+    "fullName": "FALCON RIFLE",
     "wikiName": "Falcon",
-    "dlc": "Big_Bank_Heist",
+    "dlc": "big_bank_heist",
     "image": "fal",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 44,
-        "Firerate": 698,
-        "Concealment": 10,
-        "Threat": 22,
-        "Ammo": 100,
-        "Magazine": 20,
-        "Accuracy": 68,
-        "Damage": 80
+        "magazine": 20,
+        "ammo": 100,
+        "firerate": 698,
+        "damage": 80,
+        "accuracy": 68,
+        "stability": 44,
+        "concealment": 10,
+        "threat": 22
     }
 }

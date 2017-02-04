@@ -1,17 +1,21 @@
 {
     "name": "new_mp5",
-    "marketName": "COMPACT-5 SUBMACHINE GUN",
+    "fullName": "COMPACT-5 SUBMACHINE GUN",
     "wikiName": "Compact-5_(Payday_2)",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "new_mp5",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 76,
-        "Firerate": 750,
-        "Concealment": 23,
-        "Threat": 6,
-        "Ammo": 210,
-        "Magazine": 30,
-        "Accuracy": 28,
-        "Damage": 36
+        "magazine": 30,
+        "ammo": 210,
+        "firerate": 750,
+        "damage": 36,
+        "accuracy": 28,
+        "stability": 76,
+        "concealment": 23,
+        "threat": 6
     }
 }

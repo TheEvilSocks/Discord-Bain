@@ -1,17 +1,21 @@
 {
     "name": "unknown",
-    "marketName": "UNKNOWN",
+    "fullName": "UNKNOWN",
     "wikiName": "unknown",
     "dlc": "unknown",
     "image": "unknown",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 0,
-        "Firerate": 0,
-        "Concealment": 0,
-        "Threat": 0,
-        "Ammo": 0,
-        "Magazine": 0,
-        "Accuracy": 0,
-        "Damage": 0
+        "magazine": 0,
+        "ammo": 0,
+        "firerate": 0,
+        "damage": 0,
+        "accuracy": 0,
+        "stability": 0,
+        "concealment": 0,
+        "threat": 0
     }
 }

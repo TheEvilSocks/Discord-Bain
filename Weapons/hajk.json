@@ -1,17 +1,21 @@
 {
     "name": "hajk",
-    "marketName": "CR 805B SUBMACHINE GUN",
+    "fullName": "CR 805B SUBMACHINE GUN",
     "wikiName": "CR_805B",
     "dlc": "bikerheistpack",
     "image": "hajk",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 68,
-        "Firerate": 750,
-        "Concealment": 18,
-        "Threat": 10,
-        "Ammo": 90,
-        "Magazine": 30,
-        "Accuracy": 72,
-        "Damage": 80
+        "magazine": 30,
+        "ammo": 90,
+        "firerate": 750,
+        "damage": 80,
+        "accuracy": 72,
+        "stability": 68,
+        "concealment": 18,
+        "threat": 10
     }
 }

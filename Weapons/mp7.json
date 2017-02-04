@@ -1,17 +1,21 @@
 {
     "name": "mp7",
-    "marketName": "SPECOPS SUBMACHINE GUN",
+    "fullName": "SPECOPS SUBMACHINE GUN",
     "wikiName": "SpecOps",
-    "dlc": "Gage_Weapon_Pack_01",
+    "dlc": "gage_weapon_pack_01",
     "image": "mp7",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 68,
-        "Firerate": 952,
-        "Concealment": 23,
-        "Threat": 8,
-        "Ammo": 160,
-        "Magazine": 20,
-        "Accuracy": 64,
-        "Damage": 40
+        "magazine": 20,
+        "ammo": 160,
+        "firerate": 952,
+        "damage": 40,
+        "accuracy": 64,
+        "stability": 68,
+        "concealment": 23,
+        "threat": 8
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "uzi",
-    "marketName": "UZI SUBMACHINE GUN",
+    "fullName": "UZI SUBMACHINE GUN",
     "wikiName": "Uzi",
     "dlc": "hotline_miami_dlc",
     "image": "uzi",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 68,
-        "Firerate": 698,
-        "Concealment": 24,
-        "Threat": 12,
-        "Ammo": 150,
-        "Magazine": 30,
-        "Accuracy": 52,
-        "Damage": 40
+        "magazine": 30,
+        "ammo": 150,
+        "firerate": 698,
+        "damage": 40,
+        "accuracy": 52,
+        "stability": 68,
+        "concealment": 24,
+        "threat": 12
     }
 }

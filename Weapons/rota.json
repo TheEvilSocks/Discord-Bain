@@ -1,17 +1,21 @@
 {
     "name": "rota",
-    "marketName": "GOLIATH 12G",
+    "fullName": "GOLIATH 12G",
     "wikiName": "Goliath_12G",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "rota",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 44,
-        "Firerate": 333,
-        "Concealment": 13,
-        "Threat": 28,
-        "Ammo": 54,
-        "Magazine": 6,
-        "Accuracy": 56,
-        "Damage": 42
+        "magazine": 6,
+        "ammo": 54,
+        "firerate": 333,
+        "damage": 42,
+        "accuracy": 56,
+        "stability": 44,
+        "concealment": 13,
+        "threat": 28
     }
 }

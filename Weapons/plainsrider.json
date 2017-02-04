@@ -1,17 +1,21 @@
 {
     "name": "plainsrider",
-    "marketName": "PLAINSRIDER BOW",
+    "fullName": "PLAINSRIDER BOW",
     "wikiName": "Plainsrider_Bow",
     "dlc": "westpack",
     "image": "plainsrider",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 96,
-        "Firerate": 300,
-        "Concealment": 30,
-        "Threat": 37,
-        "Ammo": 50,
-        "Magazine": 1,
-        "Accuracy": 96,
-        "Damage": 194
+        "magazine": 1,
+        "ammo": 50,
+        "firerate": 300,
+        "damage": 194,
+        "accuracy": 96,
+        "stability": 96,
+        "concealment": 30,
+        "threat": 37
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "striker",
-    "marketName": "STREET SWEEPER SHOTGUN",
+    "fullName": "STREET SWEEPER SHOTGUN",
     "wikiName": "Street_Sweeper",
-    "dlc": "Gage_Shotgun_Pack",
+    "dlc": "gage_shotgun_pack",
     "image": "striker",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 44,
-        "Firerate": 429,
-        "Concealment": 21,
-        "Threat": 28,
-        "Ammo": 72,
-        "Magazine": 12,
-        "Accuracy": 28,
-        "Damage": 42
+        "magazine": 12,
+        "ammo": 72,
+        "firerate": 429,
+        "damage": 42,
+        "accuracy": 28,
+        "stability": 44,
+        "concealment": 21,
+        "threat": 28
     }
 }

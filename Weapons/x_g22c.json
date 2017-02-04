@@ -1,17 +1,21 @@
 {
     "name": "x_g22c",
-    "marketName": "AKIMBO CHIMANO CUSTOM PISTOLS",
+    "fullName": "AKIMBO CHIMANO CUSTOM PISTOLS",
     "wikiName": "Akimbo_Chimano_Custom",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "x_g22c",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 500,
-        "Concealment": 29,
-        "Threat": 9,
-        "Ammo": 96,
-        "Magazine": 32,
-        "Accuracy": 68,
-        "Damage": 65
+        "magazine": 32,
+        "ammo": 96,
+        "firerate": 500,
+        "damage": 65,
+        "accuracy": 68,
+        "stability": 52,
+        "concealment": 29,
+        "threat": 9
     }
 }

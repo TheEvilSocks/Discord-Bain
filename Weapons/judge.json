@@ -1,17 +1,21 @@
 {
     "name": "judge",
-    "marketName": "THE JUDGE SHOTGUN",
+    "fullName": "THE JUDGE SHOTGUN",
     "wikiName": "The_Judge",
-    "dlc": "Community",
+    "dlc": "community",
     "image": "judge",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 28,
-        "Firerate": 500,
-        "Concealment": 29,
-        "Threat": 28,
-        "Ammo": 25,
-        "Magazine": 5,
-        "Accuracy": 52,
-        "Damage": 95
+        "magazine": 5,
+        "ammo": 25,
+        "firerate": 500,
+        "damage": 95,
+        "accuracy": 52,
+        "stability": 28,
+        "concealment": 29,
+        "threat": 28
     }
 }

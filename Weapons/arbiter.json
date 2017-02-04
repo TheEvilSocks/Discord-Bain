@@ -1,17 +1,21 @@
 {
     "name": "arbiter",
-    "marketName": "ARBITER",
+    "fullName": "ARBITER",
     "wikiName": "Arbiter",
-    "dlc": "Special",
+    "dlc": "special",
     "image": "arbiter",
+    "slot": "secondary",
+    "type": "special",
+    "unlock": 47,
+    "cost": 921000,
     "stats": {
-        "Stability": 96,
-        "Firerate": 80,
-        "Concealment": 18,
-        "Threat": 37,
-        "Ammo": 15,
-        "Magazine": 5,
-        "Accuracy": 96,
-        "Damage": 700
+        "magazine": 5,
+        "ammo": 15,
+        "firerate": 80,
+        "damage": 700,
+        "accuracy": 96,
+        "stability": 96,
+        "concealment": 18,
+        "threat": 37
     }
 }

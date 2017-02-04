@@ -1,17 +1,21 @@
 {
     "name": "x_deagle",
-    "marketName": "AKIMBO DEAGLE PISTOLS",
+    "fullName": "AKIMBO DEAGLE PISTOLS",
     "wikiName": "Akimbo_Deagle",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "x_deagle",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 28,
-        "Firerate": 240,
-        "Concealment": 26,
-        "Threat": 24,
-        "Ammo": 60,
-        "Magazine": 20,
-        "Accuracy": 76,
-        "Damage": 145
+        "magazine": 20,
+        "ammo": 60,
+        "firerate": 240,
+        "damage": 145,
+        "accuracy": 76,
+        "stability": 28,
+        "concealment": 26,
+        "threat": 24
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "hs2000",
-    "marketName": "LEO PISTOL",
+    "fullName": "LEO PISTOL",
     "wikiName": "LEO",
     "dlc": "thebombpack",
     "image": "hs2000",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 667,
-        "Concealment": 29,
-        "Threat": 9,
-        "Ammo": 95,
-        "Magazine": 19,
-        "Accuracy": 68,
-        "Damage": 65
+        "magazine": 19,
+        "ammo": 95,
+        "firerate": 667,
+        "damage": 65,
+        "accuracy": 68,
+        "stability": 52,
+        "concealment": 29,
+        "threat": 9
     }
 }

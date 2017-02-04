@@ -1,17 +1,21 @@
 {
     "name": "m1928",
-    "marketName": "CHICAGO TYPEWRITER SUBMACHINE GUN",
+    "fullName": "CHICAGO TYPEWRITER SUBMACHINE GUN",
     "wikiName": "Chicago_Typewriter",
-    "dlc": "Community",
+    "dlc": "community",
     "image": "m1928",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 68,
-        "Firerate": 723,
-        "Concealment": 18,
-        "Threat": 12,
-        "Ammo": 150,
-        "Magazine": 50,
-        "Accuracy": 48,
-        "Damage": 40
+        "magazine": 50,
+        "ammo": 150,
+        "firerate": 723,
+        "damage": 40,
+        "accuracy": 48,
+        "stability": 68,
+        "concealment": 18,
+        "threat": 12
     }
 }

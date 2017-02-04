@@ -1,17 +1,21 @@
 {
     "name": "b92fs",
-    "marketName": "BERNETTI 9 PISTOL",
+    "fullName": "BERNETTI 9 PISTOL",
     "wikiName": "Bernetti_9",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "b92fs",
+    "slot": "secondary",
+    "type": "pistol",
+    "unlock": 6,
+    "cost": 135000,
     "stats": {
-        "Stability": 60,
-        "Firerate": 667,
-        "Concealment": 30,
-        "Threat": 6,
-        "Ammo": 154,
-        "Magazine": 14,
-        "Accuracy": 56,
-        "Damage": 37
+        "magazine": 14,
+        "ammo": 154,
+        "firerate": 667,
+        "damage": 40,
+        "accuracy": 56,
+        "stability": 60,
+        "concealment": 30,
+        "threat": 6
     }
 }

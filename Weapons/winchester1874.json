@@ -1,17 +1,21 @@
 {
     "name": "winchester1874",
-    "marketName": "REPEATER 1874 SNIPER RIFLE",
+    "fullName": "REPEATER 1874 SNIPER RIFLE",
     "wikiName": "Repeater_1874",
     "dlc": "westpack",
     "image": "winchester1874",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 20,
-        "Firerate": 86,
-        "Concealment": 12,
-        "Threat": 28,
-        "Ammo": 45,
-        "Magazine": 15,
-        "Accuracy": 92,
-        "Damage": 160
+        "magazine": 15,
+        "ammo": 45,
+        "firerate": 86,
+        "damage": 160,
+        "accuracy": 92,
+        "stability": 20,
+        "concealment": 12,
+        "threat": 28
     }
 }

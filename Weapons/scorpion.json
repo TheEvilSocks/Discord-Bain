@@ -1,17 +1,21 @@
 {
     "name": "scorpion",
-    "marketName": "COBRA SUBMACHINE GUN",
+    "fullName": "COBRA SUBMACHINE GUN",
     "wikiName": "Cobra",
     "dlc": "hotline_miami_dlc",
     "image": "scorpion",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 68,
-        "Firerate": 1000,
-        "Concealment": 28,
-        "Threat": 6,
-        "Ammo": 220,
-        "Magazine": 20,
-        "Accuracy": 28,
-        "Damage": 36
+        "magazine": 20,
+        "ammo": 220,
+        "firerate": 1000,
+        "damage": 36,
+        "accuracy": 28,
+        "stability": 68,
+        "concealment": 28,
+        "threat": 6
     }
 }

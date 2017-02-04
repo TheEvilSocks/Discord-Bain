@@ -1,17 +1,21 @@
 {
     "name": "china",
-    "marketName": "CHINA PUFF 40MM GRENADE LAUNCHER",
+    "fullName": "CHINA PUFF 40MM GRENADE LAUNCHER",
     "wikiName": "China_Puff_40mm",
     "dlc": "wolfpackdlc",
     "image": "china",
+    "slot": "secondary",
+    "type": "special",
+    "unlock": 39,
+    "cost": 896000,
     "stats": {
-        "Stability": 96,
-        "Firerate": 50,
-        "Concealment": 18,
-        "Threat": 37,
-        "Ammo": 6,
-        "Magazine": 3,
-        "Accuracy": 96,
-        "Damage": 340
+        "magazine": 3,
+        "ammo": 6,
+        "firerate": 40,
+        "damage": 1300,
+        "accuracy": 96,
+        "stability": 96,
+        "concealment": 18,
+        "threat": 37
     }
 }

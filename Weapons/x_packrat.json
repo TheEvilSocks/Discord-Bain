@@ -1,17 +1,21 @@
 {
     "name": "x_packrat",
-    "marketName": "AKIMBO CONTRACTOR PISTOL",
+    "fullName": "AKIMBO CONTRACTOR PISTOL",
     "wikiName": "Akimbo_Contractor",
     "dlc": "jwpack",
     "image": "x_packrat",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 361,
-        "Concealment": 27,
-        "Threat": 9,
-        "Ammo": 90,
-        "Magazine": 30,
-        "Accuracy": 68,
-        "Damage": 66
+        "magazine": 30,
+        "ammo": 90,
+        "firerate": 361,
+        "damage": 66,
+        "accuracy": 68,
+        "stability": 60,
+        "concealment": 27,
+        "threat": 9
     }
 }

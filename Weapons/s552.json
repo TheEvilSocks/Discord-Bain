@@ -1,17 +1,21 @@
 {
     "name": "s552",
-    "marketName": "COMMANDO 553 RIFLE",
+    "fullName": "COMMANDO 553 RIFLE",
     "wikiName": "Commando_553",
-    "dlc": "Armored_Transport",
+    "dlc": "armored_transport",
     "image": "s552",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 56,
-        "Firerate": 714,
-        "Concealment": 22,
-        "Threat": 12,
-        "Ammo": 240,
-        "Magazine": 30,
-        "Accuracy": 36,
-        "Damage": 35
+        "magazine": 30,
+        "ammo": 240,
+        "firerate": 714,
+        "damage": 35,
+        "accuracy": 36,
+        "stability": 56,
+        "concealment": 22,
+        "threat": 12
     }
 }

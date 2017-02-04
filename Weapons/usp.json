@@ -1,17 +1,21 @@
 {
     "name": "usp",
-    "marketName": "INTERCEPTOR 45 PISTOL",
+    "fullName": "INTERCEPTOR 45 PISTOL",
     "wikiName": "Interceptor_45",
-    "dlc": "Community",
+    "dlc": "community",
     "image": "usp",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 750,
-        "Concealment": 29,
-        "Threat": 8,
-        "Ammo": 91,
-        "Magazine": 13,
-        "Accuracy": 68,
-        "Damage": 65
+        "magazine": 13,
+        "ammo": 91,
+        "firerate": 750,
+        "damage": 65,
+        "accuracy": 68,
+        "stability": 52,
+        "concealment": 29,
+        "threat": 8
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "tecci",
-    "marketName": "BOOTLEG",
+    "fullName": "BOOTLEG",
     "wikiName": "Bootleg",
     "dlc": "sydneypack",
     "image": "tecci",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 32,
-        "Firerate": 706,
-        "Concealment": 25,
-        "Threat": 31,
-        "Ammo": 99,
-        "Magazine": 33,
-        "Accuracy": 80,
-        "Damage": 65
+        "magazine": 33,
+        "ammo": 99,
+        "firerate": 706,
+        "damage": 65,
+        "accuracy": 80,
+        "stability": 32,
+        "concealment": 25,
+        "threat": 31
     }
 }

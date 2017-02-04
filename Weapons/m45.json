@@ -1,17 +1,21 @@
 {
     "name": "m45",
-    "marketName": "SWEDISH K SUBMACHINE GUN",
+    "fullName": "SWEDISH K SUBMACHINE GUN",
     "wikiName": "Swedish_K",
-    "dlc": "Armored_Transport",
+    "dlc": "armored_transport",
     "image": "m45",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 44,
-        "Firerate": 600,
-        "Concealment": 24,
-        "Threat": 10,
-        "Ammo": 80,
-        "Magazine": 40,
-        "Accuracy": 68,
-        "Damage": 80
+        "magazine": 40,
+        "ammo": 80,
+        "firerate": 600,
+        "damage": 80,
+        "accuracy": 68,
+        "stability": 44,
+        "concealment": 24,
+        "threat": 10
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "wa2000",
-    "marketName": "LEBENSAUGER .308 SNIPER RIFLE",
+    "fullName": "LEBENSAUGER .308 SNIPER RIFLE",
     "wikiName": "Lebensauger_.308",
     "dlc": "ninjapack",
     "image": "wa2000",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 20,
-        "Firerate": 120,
-        "Concealment": 16,
-        "Threat": 12,
-        "Ammo": 40,
-        "Magazine": 10,
-        "Accuracy": 92,
-        "Damage": 160
+        "magazine": 10,
+        "ammo": 40,
+        "firerate": 120,
+        "damage": 160,
+        "accuracy": 92,
+        "stability": 20,
+        "concealment": 16,
+        "threat": 12
     }
 }

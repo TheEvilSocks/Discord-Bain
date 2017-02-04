@@ -1,17 +1,21 @@
 {
     "name": "mp9",
-    "marketName": "CMP SUBMACHINE GUN",
+    "fullName": "CMP SUBMACHINE GUN",
     "wikiName": "CMP",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "mp9",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 76,
-        "Firerate": 952,
-        "Concealment": 26,
-        "Threat": 8,
-        "Ammo": 210,
-        "Magazine": 30,
-        "Accuracy": 28,
-        "Damage": 36
+        "magazine": 30,
+        "ammo": 210,
+        "firerate": 952,
+        "damage": 36,
+        "accuracy": 28,
+        "stability": 76,
+        "concealment": 26,
+        "threat": 8
     }
 }

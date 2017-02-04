@@ -1,17 +1,21 @@
 {
     "name": "g36",
-    "marketName": "JP36 RIFLE",
+    "fullName": "JP36 RIFLE",
     "wikiName": "JP36",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "g36",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 64,
-        "Firerate": 706,
-        "Concealment": 19,
-        "Threat": 13,
-        "Ammo": 240,
-        "Magazine": 30,
-        "Accuracy": 40,
-        "Damage": 36
+        "magazine": 30,
+        "ammo": 240,
+        "firerate": 706,
+        "damage": 36,
+        "accuracy": 40,
+        "stability": 64,
+        "concealment": 19,
+        "threat": 13
     }
 }

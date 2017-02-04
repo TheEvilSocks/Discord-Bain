@@ -1,17 +1,21 @@
 {
     "name": "spas12",
-    "marketName": "PREDATOR 12G SHOTGUN",
+    "fullName": "PREDATOR 12G SHOTGUN",
     "wikiName": "Predator_12",
-    "dlc": "Community",
+    "dlc": "community",
     "image": "spas12",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 44,
-        "Firerate": 300,
-        "Concealment": 14,
-        "Threat": 28,
-        "Ammo": 66,
-        "Magazine": 6,
-        "Accuracy": 28,
-        "Damage": 40
+        "magazine": 6,
+        "ammo": 66,
+        "firerate": 300,
+        "damage": 40,
+        "accuracy": 28,
+        "stability": 44,
+        "concealment": 14,
+        "threat": 28
     }
 }

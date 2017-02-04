@@ -1,17 +1,21 @@
 {
     "name": "deagle",
-    "marketName": "DEAGLE PISTOL",
+    "fullName": "DEAGLE PISTOL",
     "wikiName": "Deagle",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "deagle",
+    "slot": "secondary",
+    "type": "pistol",
+    "unlock": 35,
+    "cost": 822000,
     "stats": {
-        "Stability": 28,
-        "Firerate": 400,
-        "Concealment": 28,
-        "Threat": 24,
-        "Ammo": 50,
-        "Magazine": 10,
-        "Accuracy": 76,
-        "Damage": 145
+        "magazine": 10,
+        "ammo": 50,
+        "firerate": 240,
+        "damage": 120,
+        "accuracy": 76,
+        "stability": 28,
+        "concealment": 28,
+        "threat": 24
     }
 }

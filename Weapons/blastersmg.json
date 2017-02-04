@@ -1,17 +1,21 @@
 {
     "name": "blastersmg",
-    "marketName": "BLASTER 9MM SUBMACHINE GUN",
+    "fullName": "BLASTER 9MM SUBMACHINE GUN",
     "wikiName": "Blaster_9mm",
     "dlc": "hotline_miami_dlc",
     "image": "tec9",
+    "slot": "secondary",
+    "type": "smg",
+    "unlock": 32,
+    "cost": 725000,
     "stats": {
-        "Stability": 76,
-        "Firerate": 896,
-        "Concealment": 27,
-        "Threat": 12,
-        "Ammo": 220,
-        "Magazine": 20,
-        "Accuracy": 28,
-        "Damage": 36
+        "magazine": 20,
+        "ammo": 220,
+        "firerate": 896,
+        "damage": 36,
+        "accuracy": 28,
+        "stability": 76,
+        "concealment": 27,
+        "threat": 12
     }
 }

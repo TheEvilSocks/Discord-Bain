@@ -1,17 +1,21 @@
 {
     "name": "hunter",
-    "marketName": "PISTOL CROSSBOW",
+    "fullName": "PISTOL CROSSBOW",
     "wikiName": "Pistol_Crossbow",
     "dlc": "ninjapack",
     "image": "hunter",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 96,
-        "Firerate": 50,
-        "Concealment": 26,
-        "Threat": 10,
-        "Ammo": 25,
-        "Magazine": 1,
-        "Accuracy": 96,
-        "Damage": 100
+        "magazine": 1,
+        "ammo": 25,
+        "firerate": 50,
+        "damage": 100,
+        "accuracy": 96,
+        "stability": 96,
+        "concealment": 26,
+        "threat": 10
     }
 }

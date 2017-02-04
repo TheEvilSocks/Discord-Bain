@@ -1,17 +1,21 @@
 {
     "name": "x_b92fs",
-    "marketName": "AKIMBO BERNETTI 9 PISTOLS",
+    "fullName": "AKIMBO BERNETTI 9 PISTOLS",
     "wikiName": "Akimbo_Bernetti_9",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "x_b92fs",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 667,
-        "Concealment": 28,
-        "Threat": 6,
-        "Ammo": 168,
-        "Magazine": 28,
-        "Accuracy": 52,
-        "Damage": 37
+        "magazine": 28,
+        "ammo": 168,
+        "firerate": 667,
+        "damage": 37,
+        "accuracy": 52,
+        "stability": 60,
+        "concealment": 28,
+        "threat": 6
     }
 }

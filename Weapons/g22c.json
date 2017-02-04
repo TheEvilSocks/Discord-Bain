@@ -1,17 +1,21 @@
 {
     "name": "g22c",
-    "marketName": "CHIMANO CUSTOM PISTOL",
+    "fullName": "CHIMANO CUSTOM PISTOL",
     "wikiName": "Chimano_Custom",
-    "dlc": "Community",
+    "dlc": "community",
     "image": "g22c",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 750,
-        "Concealment": 29,
-        "Threat": 9,
-        "Ammo": 96,
-        "Magazine": 16,
-        "Accuracy": 68,
-        "Damage": 65
+        "magazine": 16,
+        "ammo": 96,
+        "firerate": 750,
+        "damage": 65,
+        "accuracy": 68,
+        "stability": 52,
+        "concealment": 29,
+        "threat": 9
     }
 }

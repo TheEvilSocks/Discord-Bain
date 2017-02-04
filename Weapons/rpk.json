@@ -1,17 +1,21 @@
 {
     "name": "rpk",
-    "marketName": "RPK LIGHT MACHINE GUN",
+    "fullName": "RPK LIGHT MACHINE GUN",
     "wikiName": "RPK",
-    "dlc": "Gage_Weapon_Pack_02",
+    "dlc": "gage_weapon_pack_02",
     "image": "rpk",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 36,
-        "Firerate": 750,
-        "Concealment": 5,
-        "Threat": 22,
-        "Ammo": 300,
-        "Magazine": 100,
-        "Accuracy": 28,
-        "Damage": 40
+        "magazine": 100,
+        "ammo": 300,
+        "firerate": 750,
+        "damage": 40,
+        "accuracy": 28,
+        "stability": 36,
+        "concealment": 5,
+        "threat": 22
     }
 }

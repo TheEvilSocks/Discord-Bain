@@ -1,17 +1,21 @@
 {
     "name": "olympic",
-    "marketName": "PARA SUBMACHINE GUN",
+    "fullName": "PARA SUBMACHINE GUN",
     "wikiName": "Para",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "olympic",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 64,
-        "Firerate": 682,
-        "Concealment": 24,
-        "Threat": 14,
-        "Ammo": 150,
-        "Magazine": 25,
-        "Accuracy": 44,
-        "Damage": 38
+        "magazine": 25,
+        "ammo": 150,
+        "firerate": 682,
+        "damage": 38,
+        "accuracy": 44,
+        "stability": 64,
+        "concealment": 24,
+        "threat": 14
     }
 }

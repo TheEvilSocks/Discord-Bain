@@ -1,17 +1,21 @@
 {
     "name": "c96",
-    "marketName": "BROOMSTICK PISTOL",
+    "fullName": "BROOMSTICK PISTOL",
     "wikiName": "Broomstick",
-    "dlc": "Gage_Historical",
+    "dlc": "gage_historical",
     "image": "c96",
+    "slot": "secondary",
+    "type": "pistol",
+    "unlock": 12,
+    "cost": 511000,
     "stats": {
-        "Stability": 60,
-        "Firerate": 667,
-        "Concealment": 28,
-        "Threat": 10,
-        "Ammo": 150,
-        "Magazine": 10,
-        "Accuracy": 44,
-        "Damage": 37
+        "magazine": 10,
+        "ammo": 90,
+        "firerate": 361,
+        "damage": 65,
+        "accuracy": 80,
+        "stability": 60,
+        "concealment": 28,
+        "threat": 10
     }
 }

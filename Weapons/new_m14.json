@@ -1,17 +1,21 @@
 {
     "name": "new_m14",
-    "marketName": "M308 RIFLE",
+    "fullName": "M308 RIFLE",
     "wikiName": "M308_(Payday_2)",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "new_m14",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 36,
-        "Firerate": 706,
-        "Concealment": 8,
-        "Threat": 31,
-        "Ammo": 70,
-        "Magazine": 10,
-        "Accuracy": 84,
-        "Damage": 160
+        "magazine": 10,
+        "ammo": 70,
+        "firerate": 706,
+        "damage": 160,
+        "accuracy": 84,
+        "stability": 36,
+        "concealment": 8,
+        "threat": 31
     }
 }

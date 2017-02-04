@@ -1,17 +1,21 @@
 {
     "name": "vhs",
-    "marketName": "LION'S ROAR RIFLE",
+    "fullName": "LION'S ROAR RIFLE",
     "wikiName": "Lion's_Roar",
     "dlc": "draganpack",
     "image": "vhs",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 857,
-        "Concealment": 17,
-        "Threat": 12,
-        "Ammo": 150,
-        "Magazine": 30,
-        "Accuracy": 60,
-        "Damage": 40
+        "magazine": 30,
+        "ammo": 150,
+        "firerate": 857,
+        "damage": 40,
+        "accuracy": 60,
+        "stability": 60,
+        "concealment": 17,
+        "threat": 12
     }
 }

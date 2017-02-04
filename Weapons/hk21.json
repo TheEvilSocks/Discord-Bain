@@ -1,17 +1,21 @@
 {
     "name": "hk21",
-    "marketName": "BRENNER-21 LIGHT MACHINE GUN",
+    "fullName": "BRENNER-21 LIGHT MACHINE GUN",
     "wikiName": "Brenner_21_(Payday_2)",
-    "dlc": "Gage_Weapon_Pack_02",
+    "dlc": "gage_weapon_pack_02",
     "image": "hk21",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 36,
-        "Firerate": 723,
-        "Concealment": 2,
-        "Threat": 37,
-        "Ammo": 300,
-        "Magazine": 150,
-        "Accuracy": 36,
-        "Damage": 40
+        "magazine": 150,
+        "ammo": 300,
+        "firerate": 723,
+        "damage": 40,
+        "accuracy": 36,
+        "stability": 36,
+        "concealment": 2,
+        "threat": 37
     }
 }

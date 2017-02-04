@@ -1,17 +1,21 @@
 {
     "name": "p226",
-    "marketName": "SIGNATURE .40 PISTOL",
+    "fullName": "SIGNATURE .40 PISTOL",
     "wikiName": "Signature_.40",
-    "dlc": "Gage_Weapon_Pack_01",
+    "dlc": "gage_weapon_pack_01",
     "image": "p226",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 667,
-        "Concealment": 29,
-        "Threat": 9,
-        "Ammo": 84,
-        "Magazine": 12,
-        "Accuracy": 68,
-        "Damage": 65
+        "magazine": 12,
+        "ammo": 84,
+        "firerate": 667,
+        "damage": 65,
+        "accuracy": 68,
+        "stability": 52,
+        "concealment": 29,
+        "threat": 9
     }
 }

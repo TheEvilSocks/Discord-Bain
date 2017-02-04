@@ -1,17 +1,21 @@
 {
     "name": "baka",
-    "marketName": "MICRO UZI SUBMACHINE GUN",
+    "fullName": "MICRO UZI SUBMACHINE GUN",
     "wikiName": "Micro_Uzi",
     "dlc": "yakuzapack",
     "image": "baka",
+    "slot": "secondary",
+    "type": "machine_pistol",
+    "unlock": 19,
+    "cost": 418000,
     "stats": {
-        "Stability": 76,
-        "Firerate": 1200,
-        "Concealment": 29,
-        "Threat": 10,
-        "Ammo": 224,
-        "Magazine": 32,
-        "Accuracy": 28,
-        "Damage": 36
+        "magazine": 32,
+        "ammo": 224,
+        "firerate": 1200,
+        "damage": 36,
+        "accuracy": 28,
+        "stability": 76,
+        "concealment": 29,
+        "threat": 10
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "mg42",
-    "marketName": "BUZZSAW 42 LIGHT MACHINE GUN",
+    "fullName": "BUZZSAW 42 LIGHT MACHINE GUN",
     "wikiName": "Buzzsaw_42",
-    "dlc": "Gage_Historical",
+    "dlc": "gage_historical",
     "image": "mg42",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 36,
-        "Firerate": 1200,
-        "Concealment": 2,
-        "Threat": 31,
-        "Ammo": 450,
-        "Magazine": 150,
-        "Accuracy": 28,
-        "Damage": 36
+        "magazine": 150,
+        "ammo": 450,
+        "firerate": 1200,
+        "damage": 36,
+        "accuracy": 28,
+        "stability": 36,
+        "concealment": 2,
+        "threat": 31
     }
 }

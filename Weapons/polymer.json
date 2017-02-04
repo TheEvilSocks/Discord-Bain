@@ -1,17 +1,21 @@
 {
     "name": "polymer",
-    "marketName": "KROSS VERTEX SUBMACHINE GUN",
+    "fullName": "KROSS VERTEX SUBMACHINE GUN",
     "wikiName": "Kross_Vertex",
     "dlc": "ninjapack",
     "image": "polymer",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 76,
-        "Firerate": 1200,
-        "Concealment": 20,
-        "Threat": 10,
-        "Ammo": 150,
-        "Magazine": 30,
-        "Accuracy": 52,
-        "Damage": 42
+        "magazine": 30,
+        "ammo": 150,
+        "firerate": 1200,
+        "damage": 42,
+        "accuracy": 52,
+        "stability": 76,
+        "concealment": 20,
+        "threat": 10
     }
 }

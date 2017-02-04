@@ -1,17 +1,21 @@
 {
     "name": "x_usp",
-    "marketName": "AKIMBO INTERCEPTOR 45 PISTOLS",
+    "fullName": "AKIMBO INTERCEPTOR 45 PISTOLS",
     "wikiName": "Akimbo_Interceptor_45",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "x_usp",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 52,
-        "Firerate": 500,
-        "Concealment": 29,
-        "Threat": 8,
-        "Ammo": 104,
-        "Magazine": 26,
-        "Accuracy": 68,
-        "Damage": 65
+        "magazine": 26,
+        "ammo": 104,
+        "firerate": 500,
+        "damage": 65,
+        "accuracy": 68,
+        "stability": 52,
+        "concealment": 29,
+        "threat": 8
     }
 }

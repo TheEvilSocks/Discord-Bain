@@ -1,17 +1,21 @@
 {
     "name": "par",
-    "marketName": "KSP 58",
+    "fullName": "KSP 58",
     "wikiName": "Ksp_58",
     "dlc": "community",
     "image": "par",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 36,
-        "Firerate": 909,
-        "Concealment": 2,
-        "Threat": 31,
-        "Ammo": 400,
-        "Magazine": 200,
-        "Accuracy": 32,
-        "Damage": 37
+        "magazine": 200,
+        "ammo": 400,
+        "firerate": 909,
+        "damage": 37,
+        "accuracy": 32,
+        "stability": 36,
+        "concealment": 2,
+        "threat": 31
     }
 }

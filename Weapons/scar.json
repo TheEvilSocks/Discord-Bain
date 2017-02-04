@@ -1,17 +1,21 @@
 {
     "name": "scar",
-    "marketName": "EAGLE HEAVY RIFLE",
+    "fullName": "EAGLE HEAVY RIFLE",
     "wikiName": "Eagle_Heavy",
-    "dlc": "Gage_Weapon_Pack_01",
+    "dlc": "gage_weapon_pack_01",
     "image": "scar",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 44,
-        "Firerate": 612,
-        "Concealment": 8,
-        "Threat": 22,
-        "Ammo": 100,
-        "Magazine": 20,
-        "Accuracy": 72,
-        "Damage": 81
+        "magazine": 20,
+        "ammo": 100,
+        "firerate": 612,
+        "damage": 81,
+        "accuracy": 72,
+        "stability": 44,
+        "concealment": 8,
+        "threat": 22
     }
 }

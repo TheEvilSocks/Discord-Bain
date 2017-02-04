@@ -1,17 +1,21 @@
 {
     "name": "serbu",
-    "marketName": "LOCOMOTIVE 12G SHOTGUN",
+    "fullName": "LOCOMOTIVE 12G SHOTGUN",
     "wikiName": "Locomotive_12G_(Payday_2)",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "serbu",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 36,
-        "Firerate": 160,
-        "Concealment": 23,
-        "Threat": 28,
-        "Ammo": 42,
-        "Magazine": 6,
-        "Accuracy": 48,
-        "Damage": 58
+        "magazine": 6,
+        "ammo": 42,
+        "firerate": 160,
+        "damage": 58,
+        "accuracy": 48,
+        "stability": 36,
+        "concealment": 23,
+        "threat": 28
     }
 }

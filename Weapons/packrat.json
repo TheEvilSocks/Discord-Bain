@@ -1,17 +1,21 @@
 {
     "name": "packrat",
-    "marketName": "CONTRACTOR PISTOL",
+    "fullName": "CONTRACTOR PISTOL",
     "wikiName": "Contractor_(pistol)",
     "dlc": "jwpack",
     "image": "packrat",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 361,
-        "Concealment": 29,
-        "Threat": 9,
-        "Ammo": 90,
-        "Magazine": 15,
-        "Accuracy": 68,
-        "Damage": 66
+        "magazine": 15,
+        "ammo": 90,
+        "firerate": 361,
+        "damage": 66,
+        "accuracy": 68,
+        "stability": 60,
+        "concealment": 29,
+        "threat": 9
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "pl14",
-    "marketName": "White Streak Pistol",
+    "fullName": "White Streak Pistol",
     "wikiName": "White_Streak",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "pl14",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 32,
-        "Firerate": 667,
-        "Concealment": 29,
-        "Threat": 9,
-        "Ammo": 60,
-        "Magazine": 12,
-        "Accuracy": 68,
-        "Damage": 145
+        "magazine": 12,
+        "ammo": 60,
+        "firerate": 667,
+        "damage": 145,
+        "accuracy": 68,
+        "stability": 32,
+        "concealment": 29,
+        "threat": 9
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "sterling",
-    "marketName": "PATCHETT L2A1 SUBMACHINE GUN",
+    "fullName": "PATCHETT L2A1 SUBMACHINE GUN",
     "wikiName": "Patchett_L2A1",
-    "dlc": "Gage_Historical",
+    "dlc": "gage_historical",
     "image": "sterling",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 76,
-        "Firerate": 545,
-        "Concealment": 20,
-        "Threat": 12,
-        "Ammo": 220,
-        "Magazine": 20,
-        "Accuracy": 28,
-        "Damage": 36
+        "magazine": 20,
+        "ammo": 220,
+        "firerate": 545,
+        "damage": 36,
+        "accuracy": 28,
+        "stability": 76,
+        "concealment": 20,
+        "threat": 12
     }
 }

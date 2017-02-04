@@ -1,17 +1,21 @@
 {
     "name": "glock_17",
-    "marketName": "CHIMANO 88 PISTOL",
+    "fullName": "CHIMANO 88 PISTOL",
     "wikiName": "Chimano_88",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "glock_17",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 60,
-        "Firerate": 500,
-        "Concealment": 30,
-        "Threat": 8,
-        "Ammo": 153,
-        "Magazine": 17,
-        "Accuracy": 52,
-        "Damage": 35
+        "magazine": 17,
+        "ammo": 153,
+        "firerate": 500,
+        "damage": 35,
+        "accuracy": 52,
+        "stability": 60,
+        "concealment": 30,
+        "threat": 8
     }
 }

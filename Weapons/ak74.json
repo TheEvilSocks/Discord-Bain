@@ -1,17 +1,21 @@
 {
     "name": "ak74",
-    "marketName": "AK RIFLE",
+    "fullName": "AK RIFLE",
     "wikiName": "AK_(Payday_2)",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "ak74",
+    "slot": "primary",
+    "type": "assault_rifle",
+    "unlock": 1,
+    "cost": 43000,
     "stats": {
-        "Stability": 60,
-        "Firerate": 652,
-        "Concealment": 16,
-        "Threat": 14,
-        "Ammo": 150,
-        "Magazine": 30,
-        "Accuracy": 48,
-        "Damage": 40
+        "magazine": 30,
+        "ammo": 150,
+        "firerate": 652,
+        "damage": 40,
+        "accuracy": 48,
+        "stability": 60,
+        "concealment": 16,
+        "threat": 14
     }
 }

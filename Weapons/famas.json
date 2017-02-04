@@ -1,17 +1,21 @@
 {
     "name": "famas",
-    "marketName": "CLARION RIFLE",
+    "fullName": "CLARION RIFLE",
     "wikiName": "Clarion",
-    "dlc": "Gage_Assault_Pack",
+    "dlc": "gage_assault_pack",
     "image": "famas",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 68,
-        "Firerate": 1000,
-        "Concealment": 24,
-        "Threat": 14,
-        "Ammo": 240,
-        "Magazine": 30,
-        "Accuracy": 36,
-        "Damage": 35
+        "magazine": 30,
+        "ammo": 240,
+        "firerate": 1000,
+        "damage": 35,
+        "accuracy": 36,
+        "stability": 68,
+        "concealment": 24,
+        "threat": 14
     }
 }

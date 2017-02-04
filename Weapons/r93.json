@@ -1,17 +1,21 @@
 {
     "name": "r93",
-    "marketName": "R93 SNIPER RIFLE",
+    "fullName": "R93 SNIPER RIFLE",
     "wikiName": "R93",
-    "dlc": "Gage_Sniper_Pack",
+    "dlc": "gage_sniper_pack",
     "image": "r93",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 12,
-        "Firerate": 50,
-        "Concealment": 5,
-        "Threat": 31,
-        "Ammo": 30,
-        "Magazine": 6,
-        "Accuracy": 92,
-        "Damage": 280
+        "magazine": 6,
+        "ammo": 30,
+        "firerate": 50,
+        "damage": 280,
+        "accuracy": 92,
+        "stability": 12,
+        "concealment": 5,
+        "threat": 31
     }
 }

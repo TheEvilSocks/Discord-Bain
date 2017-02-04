@@ -1,17 +1,21 @@
 {
     "name": "desertfox",
-    "marketName": "DESERTFOX SNIPER RIFLE",
+    "fullName": "DESERTFOX SNIPER RIFLE",
     "wikiName": "Desertfox",
     "dlc": "jwpack",
     "image": "desertfox",
+    "slot": "primary",
+    "type": "sniper_rifle",
+    "unlock": 34,
+    "cost": 773000,
     "stats": {
-        "Stability": 12,
-        "Firerate": 60,
-        "Concealment": 19,
-        "Threat": 28,
-        "Ammo": 30,
-        "Magazine": 5,
-        "Accuracy": 76,
-        "Damage": 300
+        "magazine": 5,
+        "ammo": 30,
+        "firerate": 60,
+        "damage": 300,
+        "accuracy": 76,
+        "stability": 12,
+        "concealment": 19,
+        "threat": 28
     }
 }

@@ -1,17 +1,21 @@
 {
     "name": "b682",
-    "marketName": "JOCELINE O/U 12G SHOTGUN",
+    "fullName": "JOCELINE O/U 12G SHOTGUN",
     "wikiName": "Joceline_O/U_12G",
-    "dlc": "Community",
+    "dlc": "community",
     "image": "b682",
+    "slot": "primary",
+    "type": "shotgun",
+    "unlock": 43,
+    "cost": 921000,
     "stats": {
-        "Stability": 28,
-        "Firerate": 500,
-        "Concealment": 5,
-        "Threat": 37,
-        "Ammo": 28,
-        "Magazine": 2,
-        "Accuracy": 60,
-        "Damage": 145
+        "magazine": 2,
+        "ammo": 28,
+        "firerate": 500,
+        "damage": 145,
+        "accuracy": 60,
+        "stability": 28,
+        "concealment": 5,
+        "threat": 37
     }
 }

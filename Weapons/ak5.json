@@ -1,17 +1,21 @@
 {
     "name": "ak5",
-    "marketName": "AK5 RIFLE",
+    "fullName": "AK5 RIFLE",
     "wikiName": "Ak_5",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "ak5",
+    "slot": "primary",
+    "type": "assault_rifle",
+    "unlock": 33,
+    "cost": 749000,
     "stats": {
-        "Stability": 60,
-        "Firerate": 706,
-        "Concealment": 18,
-        "Threat": 14,
-        "Ammo": 150,
-        "Magazine": 30,
-        "Accuracy": 60,
-        "Damage": 38
+        "magazine": 30,
+        "ammo": 150,
+        "firerate": 706,
+        "damage": 38,
+        "accuracy": 52,
+        "stability": 60,
+        "concealment": 18,
+        "threat": 14
     }
 }

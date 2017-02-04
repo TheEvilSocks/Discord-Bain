@@ -1,17 +1,21 @@
 {
     "name": "new_raging_bull",
-    "marketName": "BRONCO .44 REVOLVER",
+    "fullName": "BRONCO .44 REVOLVER",
     "wikiName": "Bronco_.44_(Payday_2)",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "new_raging_bull",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 4,
-        "Firerate": 286,
-        "Concealment": 26,
-        "Threat": 24,
-        "Ammo": 54,
-        "Magazine": 6,
-        "Accuracy": 76,
-        "Damage": 175
+        "magazine": 6,
+        "ammo": 54,
+        "firerate": 286,
+        "damage": 175,
+        "accuracy": 76,
+        "stability": 4,
+        "concealment": 26,
+        "threat": 24
     }
 }

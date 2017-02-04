@@ -1,17 +1,21 @@
 {
     "name": "long",
-    "marketName": "ENGLISH LONGBOW",
+    "fullName": "ENGLISH LONGBOW",
     "wikiName": "English_Longbow",
     "dlc": "chivalrypack",
     "image": "long",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 96,
-        "Firerate": 300,
-        "Concealment": 29,
-        "Threat": 37,
-        "Ammo": 35,
-        "Magazine": 1,
-        "Accuracy": 96,
-        "Damage": 650
+        "magazine": 1,
+        "ammo": 35,
+        "firerate": 300,
+        "damage": 650,
+        "accuracy": 96,
+        "stability": 96,
+        "concealment": 29,
+        "threat": 37
     }
 }

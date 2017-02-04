@@ -1,17 +1,21 @@
 {
     "name": "cobray",
-    "marketName": "JACKET\\S PIECE",
+    "fullName": "JACKET\\'S PIECE",
     "wikiName": "Jacket's_Piece",
     "dlc": "hotline_miami_2_deluxe",
     "image": "cobray",
+    "slot": "secondary",
+    "type": "machine_pistol",
+    "unlock": 12,
+    "cost": 261000,
     "stats": {
-        "Stability": 68,
-        "Firerate": 1200,
-        "Concealment": 25,
-        "Threat": 10,
-        "Ammo": 160,
-        "Magazine": 32,
-        "Accuracy": 52,
-        "Damage": 40
+        "magazine": 32,
+        "ammo": 160,
+        "firerate": 1200,
+        "damage": 40,
+        "accuracy": 52,
+        "stability": 68,
+        "concealment": 25,
+        "threat": 10
     }
 }

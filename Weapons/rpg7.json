@@ -1,17 +1,21 @@
 {
     "name": "rpg7",
-    "marketName": "HRL-7 ROCKET LAUNCHER",
+    "fullName": "HRL-7 ROCKET LAUNCHER",
     "wikiName": "HRL-7",
     "dlc": "overkillpack",
     "image": "rpg7",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 96,
-        "Firerate": 30,
-        "Concealment": 5,
-        "Threat": 37,
-        "Ammo": 4,
-        "Magazine": 1,
-        "Accuracy": 96,
-        "Damage": 10000
+        "magazine": 1,
+        "ammo": 4,
+        "firerate": 30,
+        "damage": 10000,
+        "accuracy": 96,
+        "stability": 96,
+        "concealment": 5,
+        "threat": 37
     }
 }

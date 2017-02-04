@@ -1,17 +1,21 @@
 {
     "name": "saiga",
-    "marketName": "IZHMA 12G SHOTGUN",
+    "fullName": "IZHMA 12G SHOTGUN",
     "wikiName": "IZHMA_12G",
-    "dlc": "Normal",
+    "dlc": "normal",
     "image": "saiga",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": -9999999999,
+    "cost": -9999999999,
     "stats": {
-        "Stability": 44,
-        "Firerate": 333,
-        "Concealment": 13,
-        "Threat": 28,
-        "Ammo": 70,
-        "Magazine": 7,
-        "Accuracy": 28,
-        "Damage": 33
+        "magazine": 7,
+        "ammo": 70,
+        "firerate": 333,
+        "damage": 33,
+        "accuracy": 28,
+        "stability": 44,
+        "concealment": 13,
+        "threat": 28
     }
 }

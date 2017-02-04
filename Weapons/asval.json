@@ -1,17 +1,21 @@
 {
     "name": "asval",
-    "marketName": "VALKYRIA RIFLE",
+    "fullName": "VALKYRIA RIFLE",
     "wikiName": "Valkyria",
     "dlc": "sokolpack",
     "image": "asval",
+    "slot": "undefined",
+    "type": "undefined",
+    "unlock": 29,
+    "cost": 652000,
     "stats": {
-        "Stability": 64,
-        "Firerate": 896,
-        "Concealment": 26,
-        "Threat": 0,
-        "Ammo": 220,
-        "Magazine": 20,
-        "Accuracy": 56,
-        "Damage": 36
+        "magazine": 20,
+        "ammo": 220,
+        "firerate": 896,
+        "damage": 36,
+        "accuracy": 56,
+        "stability": 64,
+        "concealment": 26,
+        "threat": 0
     }
 }
