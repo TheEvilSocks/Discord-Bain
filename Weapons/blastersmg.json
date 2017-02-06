@@ -5,7 +5,7 @@
     "dlc": "hotline_miami_dlc",
     "image": "tec9",
     "slot": "secondary",
-    "type": "smg",
+    "type": "submachine",
     "unlock": 32,
     "cost": 725000,
     "stats": {

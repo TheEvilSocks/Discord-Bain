@@ -4,8 +4,8 @@
     "wikiName": "Valkyria",
     "dlc": "sokolpack",
     "image": "asval",
-    "slot": "undefined",
-    "type": "undefined",
+    "slot": "primary",
+    "type": "assault_rifle",
     "unlock": 29,
     "cost": 652000,
     "stats": {
