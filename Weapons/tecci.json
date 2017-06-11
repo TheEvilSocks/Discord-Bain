@@ -1,21 +1,17 @@
 {
     "name": "tecci",
-    "fullName": "BOOTLEG",
-    "wikiName": "Bootleg",
-    "dlc": "sydneypack",
     "image": "tecci",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Bootleg Rifle",
+    "type": "Assault Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 33,
-        "ammo": 99,
-        "firerate": 706,
-        "damage": 65,
-        "accuracy": 80,
-        "stability": 32,
-        "concealment": 25,
-        "threat": 31
+        "Magazine": 100,
+        "Total Ammo": 200,
+        "Rate of Fire": 666.7,
+        "Damage": 38,
+        "Accuracy": 24,
+        "Stability": 52,
+        "Concealment": 20,
+        "Threat": 14
     }
 }

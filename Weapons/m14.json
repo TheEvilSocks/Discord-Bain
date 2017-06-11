@@ -1,0 +1,17 @@
+{
+    "name": "m14",
+    "image": "m14",
+    "fullName": "M308 Rifle",
+    "type": "Assault Rifle",
+    "slot": "primary",
+    "stats": {
+        "Magazine": 10,
+        "Total Ammo": 70,
+        "Rate of Fire": 705.9,
+        "Damage": 160,
+        "Accuracy": 84,
+        "Stability": 36,
+        "Concealment": 8,
+        "Threat": 31
+    }
+}

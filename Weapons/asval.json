@@ -1,21 +1,17 @@
 {
     "name": "asval",
-    "fullName": "VALKYRIA RIFLE",
-    "wikiName": "Valkyria",
-    "dlc": "sokolpack",
     "image": "asval",
+    "fullName": "Valkyria Rifle",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 29,
-    "cost": 652000,
     "stats": {
-        "magazine": 20,
-        "ammo": 220,
-        "firerate": 896,
-        "damage": 36,
-        "accuracy": 56,
-        "stability": 64,
-        "concealment": 26,
-        "threat": 0
+        "Magazine": 20,
+        "Total Ammo": 220,
+        "Rate of Fire": 895.5,
+        "Damage": 36,
+        "Accuracy": 56,
+        "Stability": 64,
+        "Concealment": 26,
+        "Threat": 0
     }
 }

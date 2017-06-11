@@ -1,21 +1,17 @@
 {
     "name": "akm",
-    "fullName": "AK.762 RIFLE",
-    "wikiName": "AK.762",
-    "dlc": "normal",
     "image": "akm",
+    "fullName": "AK.762 Rifle",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 16,
-    "cost": 35000,
     "stats": {
-        "magazine": 30,
-        "ammo": 90,
-        "firerate": 561,
-        "damage": 80,
-        "accuracy": 60,
-        "stability": 44,
-        "concealment": 13,
-        "threat": 22
+        "Magazine": 30,
+        "Total Ammo": 90,
+        "Rate of Fire": 560.7,
+        "Damage": 80,
+        "Accuracy": 60,
+        "Stability": 44,
+        "Concealment": 13,
+        "Threat": 22
     }
 }

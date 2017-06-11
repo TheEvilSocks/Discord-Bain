@@ -1,21 +1,17 @@
 {
     "name": "jowi",
-    "fullName": "AKIMBO CHIMANO COMPACT PISTOLS",
-    "wikiName": "Akimbo_Chimano_Compact",
-    "dlc": "normal",
     "image": "jowi",
+    "fullName": "Akimbo Chimano Compact Pistols",
+    "type": "Akimbo",
     "slot": "primary",
-    "type": "akimbo",
-    "unlock": 0,
-    "cost": 602000,
     "stats": {
-        "magazine": 20,
-        "ammo": 160,
-        "firerate": 667,
-        "damage": 40,
-        "accuracy": 52,
-        "stability": 60,
-        "concealment": 30,
-        "threat": 9
+        "Magazine": 20,
+        "Total Ammo": 160,
+        "Rate of Fire": 666.7,
+        "Damage": 37,
+        "Accuracy": 52,
+        "Stability": 60,
+        "Concealment": 30,
+        "Threat": 9
     }
 }

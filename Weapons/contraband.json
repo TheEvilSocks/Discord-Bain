@@ -1,21 +1,17 @@
 {
     "name": "contraband",
-    "fullName": "LITTLE FRIEND 7.62 ASSAULT RIFLE",
-    "wikiName": "Little_Friend_7.62",
-    "dlc": "chicopack",
     "image": "contraband",
+    "fullName": "Little Friend 7.62 Assault Rifle",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 41,
-    "cost": 921000,
     "stats": {
-        "magazine": 20,
-        "ammo": 40,
-        "firerate": 612,
-        "damage": 160,
-        "accuracy": 72,
-        "stability": 44,
-        "concealment": 8,
-        "threat": 22
+        "Magazine": 20,
+        "Total Ammo": 40,
+        "Rate of Fire": 612,
+        "Damage": 160,
+        "Accuracy": 72,
+        "Stability": 44,
+        "Concealment": 8,
+        "Threat": 22
     }
 }

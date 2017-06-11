@@ -1,21 +1,17 @@
 {
     "name": "ksg",
-    "fullName": "RAVEN SHOTGUN",
-    "wikiName": "Raven",
-    "dlc": "gage_shotgun_pack",
     "image": "ksg",
+    "fullName": "Raven Shotgun",
+    "type": "Shotgun",
     "slot": "primary",
-    "type": "shotgun",
-    "unlock": 22,
-    "cost": 487000,
     "stats": {
-        "magazine": 14,
-        "ammo": 42,
-        "firerate": 104,
-        "damage": 90,
-        "accuracy": 44,
-        "stability": 44,
-        "concealment": 22,
-        "threat": 28
+        "Magazine": 14,
+        "Total Ammo": 42,
+        "Rate of Fire": 104.3,
+        "Damage": 90,
+        "Accuracy": 44,
+        "Stability": 44,
+        "Concealment": 22,
+        "Threat": 28
     }
 }

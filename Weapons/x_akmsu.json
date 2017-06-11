@@ -1,21 +1,17 @@
 {
     "name": "x_akmsu",
-    "fullName": "AKIMBO KRINKOV SUBMACHINE GUNS",
-    "wikiName": "Akimbo_Krinkov",
-    "dlc": "normal",
     "image": "x_akmsu",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Akimbo Krinkov Submachine Guns",
+    "type": "Akimbo",
+    "slot": "primary",
     "stats": {
-        "magazine": 60,
-        "ammo": 120,
-        "firerate": 822,
-        "damage": 80,
-        "accuracy": 60,
-        "stability": 44,
-        "concealment": 21,
-        "threat": 22
+        "Magazine": 60,
+        "Total Ammo": 120,
+        "Rate of Fire": 821.9,
+        "Damage": 80,
+        "Accuracy": 60,
+        "Stability": 44,
+        "Concealment": 21,
+        "Threat": 22
     }
 }

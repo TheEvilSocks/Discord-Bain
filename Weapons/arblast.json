@@ -1,21 +1,17 @@
 {
     "name": "arblast",
-    "fullName": "HEAVY CROSSBOW",
-    "wikiName": "Heavy_Crossbow",
-    "dlc": "chivalrypack",
     "image": "arblast",
+    "fullName": "Heavy Crossbow",
+    "type": "Special",
     "slot": "primary",
-    "type": "special",
-    "unlock": 38,
-    "cost": 871000,
     "stats": {
-        "magazine": 1,
-        "ammo": 35,
-        "firerate": 21,
-        "damage": 2000,
-        "accuracy": 96,
-        "stability": 96,
-        "concealment": 28,
-        "threat": 10
+        "Magazine": 1,
+        "Total Ammo": 35,
+        "Rate of Fire": 20.7,
+        "Damage": 2000,
+        "Accuracy": 96,
+        "Stability": 96,
+        "Concealment": 28,
+        "Threat": 10
     }
 }

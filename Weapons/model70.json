@@ -1,21 +1,17 @@
 {
     "name": "model70",
-    "fullName": "PLATYPUS 70 SNIPER RIFLE",
-    "wikiName": "Platypus_70",
-    "dlc": "community",
     "image": "model70",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Platypus 70 Sniper Rifle",
+    "type": "Sniper Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 5,
-        "ammo": 30,
-        "firerate": 60,
-        "damage": 280,
-        "accuracy": 92,
-        "stability": 12,
-        "concealment": 6,
-        "threat": 28
+        "Magazine": 5,
+        "Total Ammo": 30,
+        "Rate of Fire": 60,
+        "Damage": 300,
+        "Accuracy": 92,
+        "Stability": 12,
+        "Concealment": 6,
+        "Threat": 28
     }
 }

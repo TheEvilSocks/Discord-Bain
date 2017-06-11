@@ -1,0 +1,17 @@
+{
+    "name": "tti",
+    "image": "tti",
+    "fullName": "Contractor .308 Sniper Rifle",
+    "type": "Sniper Rifle",
+    "slot": "primary",
+    "stats": {
+        "Magazine": 20,
+        "Total Ammo": 40,
+        "Rate of Fire": 150,
+        "Damage": 160,
+        "Accuracy": 76,
+        "Stability": 4,
+        "Concealment": 16,
+        "Threat": 12
+    }
+}

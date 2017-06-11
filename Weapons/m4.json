@@ -1,17 +1,17 @@
 {
-    "name": "ak74",
-    "image": "ak74",
-    "fullName": "AK Rifle",
+    "name": "m4",
+    "image": "m4",
+    "fullName": "CAR-4 Rifle",
     "type": "Assault Rifle",
     "slot": "primary",
     "stats": {
         "Magazine": 30,
         "Total Ammo": 150,
-        "Rate of Fire": 652.2,
-        "Damage": 40,
-        "Accuracy": 48,
+        "Rate of Fire": 600,
+        "Damage": 38,
+        "Accuracy": 44,
         "Stability": 60,
-        "Concealment": 16,
+        "Concealment": 20,
         "Threat": 14
     }
 }

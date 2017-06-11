@@ -1,21 +1,17 @@
 {
     "name": "m95",
-    "fullName": "THANATOS .50 CAL SNIPER RIFLE",
-    "wikiName": "Thanatos_.50_cal",
-    "dlc": "gage_sniper_pack",
     "image": "m95",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Thanatos .50 cal Sniper Rifle",
+    "type": "Sniper Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 5,
-        "ammo": 15,
-        "firerate": 40,
-        "damage": 2900,
-        "accuracy": 92,
-        "stability": 4,
-        "concealment": 1,
-        "threat": 37
+        "Magazine": 5,
+        "Total Ammo": 15,
+        "Rate of Fire": 40,
+        "Damage": 2900,
+        "Accuracy": 92,
+        "Stability": 4,
+        "Concealment": 1,
+        "Threat": 37
     }
 }

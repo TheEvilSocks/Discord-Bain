@@ -1,21 +1,17 @@
 {
     "name": "g3",
-    "fullName": "GEWEHR 3 RIFLE",
-    "wikiName": "Gewehr_3",
-    "dlc": "gage_assault_pack",
     "image": "g3",
+    "fullName": "Gewehr 3 Rifle",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 52,
-    "cost": 921000,
     "stats": {
-        "magazine": 20,
-        "ammo": 100,
-        "firerate": 652,
-        "damage": 80,
-        "accuracy": 60,
-        "stability": 48,
-        "concealment": 12,
-        "threat": 26
+        "Magazine": 20,
+        "Total Ammo": 100,
+        "Rate of Fire": 652.2,
+        "Damage": 80,
+        "Accuracy": 68,
+        "Stability": 48,
+        "Concealment": 12,
+        "Threat": 26
     }
 }

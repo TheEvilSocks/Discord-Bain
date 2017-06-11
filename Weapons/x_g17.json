@@ -1,21 +1,17 @@
 {
     "name": "x_g17",
-    "fullName": "AKIMBO CHIMANO 88 PISTOLS",
-    "wikiName": "Akimbo_Chimano_88",
-    "dlc": "normal",
     "image": "x_g17",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Akimbo Chimano 88 Pistols",
+    "type": "Akimbo",
+    "slot": "primary",
     "stats": {
-        "magazine": 34,
-        "ammo": 170,
-        "firerate": 500,
-        "damage": 37,
-        "accuracy": 52,
-        "stability": 60,
-        "concealment": 30,
-        "threat": 8
+        "Magazine": 34,
+        "Total Ammo": 170,
+        "Rate of Fire": 480,
+        "Damage": 37,
+        "Accuracy": 52,
+        "Stability": 60,
+        "Concealment": 30,
+        "Threat": 8
     }
 }

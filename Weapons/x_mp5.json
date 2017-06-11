@@ -1,21 +1,17 @@
 {
     "name": "x_mp5",
-    "fullName": "AKIMBO COMPACT-5 SUBMACHINE GUNS",
-    "wikiName": "Akimbo_Compact-5",
-    "dlc": "normal",
     "image": "x_mp5",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Akimbo Compact-5 Submachine Guns",
+    "type": "Akimbo",
+    "slot": "primary",
     "stats": {
-        "magazine": 60,
-        "ammo": 240,
-        "firerate": 750,
-        "damage": 36,
-        "accuracy": 28,
-        "stability": 76,
-        "concealment": 23,
-        "threat": 6
+        "Magazine": 60,
+        "Total Ammo": 240,
+        "Rate of Fire": 750,
+        "Damage": 36,
+        "Accuracy": 28,
+        "Stability": 76,
+        "Concealment": 23,
+        "Threat": 6
     }
 }

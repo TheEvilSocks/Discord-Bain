@@ -1,21 +1,17 @@
 {
     "name": "par",
-    "fullName": "KSP 58",
-    "wikiName": "Ksp_58",
-    "dlc": "community",
     "image": "par",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Ksp 58",
+    "type": "Light Machine Gun",
+    "slot": "primary",
     "stats": {
-        "magazine": 200,
-        "ammo": 400,
-        "firerate": 909,
-        "damage": 37,
-        "accuracy": 32,
-        "stability": 36,
-        "concealment": 2,
-        "threat": 31
+        "Magazine": 200,
+        "Total Ammo": 400,
+        "Rate of Fire": 909.1,
+        "Damage": 37,
+        "Accuracy": 32,
+        "Stability": 36,
+        "Concealment": 2,
+        "Threat": 31
     }
 }

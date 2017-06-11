@@ -1,21 +1,17 @@
 {
     "name": "boot",
-    "fullName": "BREAKER 12G SHOTGUN",
-    "wikiName": "Breaker_12G",
-    "dlc": "bikercharacterpack",
     "image": "boot",
+    "fullName": "Breaker 12G Shotgun",
+    "type": "Shotgun",
     "slot": "primary",
-    "type": "shotgun",
-    "unlock": 3,
-    "cost": 77000,
     "stats": {
-        "magazine": 7,
-        "ammo": 21,
-        "firerate": 80,
-        "damage": 155,
-        "accuracy": 48,
-        "stability": 28,
-        "concealment": 20,
-        "threat": 28
+        "Magazine": 7,
+        "Total Ammo": 21,
+        "Rate of Fire": 80,
+        "Damage": 155,
+        "Accuracy": 48,
+        "Stability": 28,
+        "Concealment": 20,
+        "Threat": 28
     }
 }

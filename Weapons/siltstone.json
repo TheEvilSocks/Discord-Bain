@@ -1,0 +1,17 @@
+{
+    "name": "siltstone",
+    "image": "siltstone",
+    "fullName": "Grom Sniper Rifle",
+    "type": "Sniper Rifle",
+    "slot": "primary",
+    "stats": {
+        "Magazine": 10,
+        "Total Ammo": 30,
+        "Rate of Fire": 60,
+        "Damage": 300,
+        "Accuracy": 72,
+        "Stability": 4,
+        "Concealment": 16,
+        "Threat": 12
+    }
+}

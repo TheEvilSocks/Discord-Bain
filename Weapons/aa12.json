@@ -1,21 +1,17 @@
 {
     "name": "aa12",
-    "fullName": "STEAKOUT 12G SHOTGUN",
-    "wikiName": "Steakout_12G",
-    "dlc": "bbq",
     "image": "aa12",
+    "fullName": "Steakout 12G",
+    "type": "Shotgun",
     "slot": "primary",
-    "type": "shotgun",
-    "unlock": 52,
-    "cost": 921000,
     "stats": {
-        "magazine": 8,
-        "ammo": 72,
-        "firerate": 300,
-        "damage": 42,
-        "accuracy": 28,
-        "stability": 44,
-        "concealment": 9,
-        "threat": 28
+        "Magazine": 8,
+        "Total Ammo": 72,
+        "Rate of Fire": 300,
+        "Damage": 42,
+        "Accuracy": 28,
+        "Stability": 44,
+        "Concealment": 9,
+        "Threat": 28
     }
 }

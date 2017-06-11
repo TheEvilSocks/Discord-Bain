@@ -1,21 +1,17 @@
 {
     "name": "frankish",
-    "fullName": "LIGHT CROSSBOW",
-    "wikiName": "Light_Crossbow",
-    "dlc": "chivalrypack",
     "image": "frankish",
+    "fullName": "Light Crossbow",
+    "type": "Special",
     "slot": "primary",
-    "type": "special",
-    "unlock": 17,
-    "cost": 372000,
     "stats": {
-        "magazine": 1,
-        "ammo": 50,
-        "firerate": 40,
-        "damage": 750,
-        "accuracy": 96,
-        "stability": 96,
-        "concealment": 29,
-        "threat": 10
+        "Magazine": 1,
+        "Total Ammo": 50,
+        "Rate of Fire": 40,
+        "Damage": 750,
+        "Accuracy": 96,
+        "Stability": 96,
+        "Concealment": 29,
+        "Threat": 10
     }
 }

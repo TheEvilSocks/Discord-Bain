@@ -1,21 +1,17 @@
 {
     "name": "m249",
-    "fullName": "KSP LIGHT MACHINE GUN",
-    "wikiName": "KSP",
-    "dlc": "gage_weapon_pack_02",
     "image": "m249",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "KSP Light Machine Gun",
+    "type": "Light Machine Gun",
+    "slot": "primary",
     "stats": {
-        "magazine": 200,
-        "ammo": 400,
-        "firerate": 909,
-        "damage": 36,
-        "accuracy": 28,
-        "stability": 36,
-        "concealment": 2,
-        "threat": 31
+        "Magazine": 200,
+        "Total Ammo": 400,
+        "Rate of Fire": 909.1,
+        "Damage": 36,
+        "Accuracy": 28,
+        "Stability": 36,
+        "Concealment": 2,
+        "Threat": 31
     }
 }

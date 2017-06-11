@@ -1,21 +1,17 @@
 {
     "name": "l85a2",
-    "fullName": "QUEEN'S WRATH RIFLE",
-    "wikiName": "Queen’s_Wrath",
-    "dlc": "cloverpack",
     "image": "l85a2",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Queen’s Wrath Rifle",
+    "type": "Assault Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 30,
-        "ammo": 150,
-        "firerate": 723,
-        "damage": 40,
-        "accuracy": 64,
-        "stability": 60,
-        "concealment": 16,
-        "threat": 12
+        "Magazine": 30,
+        "Total Ammo": 150,
+        "Rate of Fire": 722.9,
+        "Damage": 40,
+        "Accuracy": 64,
+        "Stability": 60,
+        "Concealment": 16,
+        "Threat": 12
     }
 }

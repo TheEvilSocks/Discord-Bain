@@ -1,21 +1,17 @@
 {
     "name": "x_sr2",
-    "fullName": "AKIMBO HEATHER SUBMACHINE GUNS",
-    "wikiName": "Akimbo_Heather_Submachine_Guns",
-    "dlc": "normal",
     "image": "x_sr2",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Akimbo Heather Submachine Guns",
+    "type": "Akimbo",
+    "slot": "primary",
     "stats": {
-        "magazine": 64,
-        "ammo": 192,
-        "firerate": 750,
-        "damage": 40,
-        "accuracy": 52,
-        "stability": 44,
-        "concealment": 25,
-        "threat": 9
+        "Magazine": 64,
+        "Total Ammo": 192,
+        "Rate of Fire": 750,
+        "Damage": 40,
+        "Accuracy": 52,
+        "Stability": 44,
+        "Concealment": 25,
+        "Threat": 9
     }
 }

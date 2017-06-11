@@ -1,21 +1,17 @@
 {
     "name": "fal",
-    "fullName": "FALCON RIFLE",
-    "wikiName": "Falcon",
-    "dlc": "big_bank_heist",
     "image": "fal",
+    "fullName": "Falcon Rifle",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 42,
-    "cost": 921000,
     "stats": {
-        "magazine": 20,
-        "ammo": 100,
-        "firerate": 698,
-        "damage": 80,
-        "accuracy": 68,
-        "stability": 44,
-        "concealment": 10,
-        "threat": 22
+        "Magazine": 20,
+        "Total Ammo": 100,
+        "Rate of Fire": 697.7,
+        "Damage": 80,
+        "Accuracy": 68,
+        "Stability": 44,
+        "Concealment": 10,
+        "Threat": 22
     }
 }

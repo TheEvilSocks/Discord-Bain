@@ -1,21 +1,17 @@
 {
     "name": "saw",
-    "fullName": "OVE9000 SAW",
-    "wikiName": "OVE9000",
-    "dlc": "normal",
     "image": "saw",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "OVE9000 Saw (As Primary)",
+    "type": "Special",
+    "slot": "primary",
     "stats": {
-        "magazine": 150,
-        "ammo": 300,
-        "firerate": 400,
-        "damage": 23,
-        "accuracy": 8,
-        "stability": 24,
-        "concealment": 16,
-        "threat": 24
+        "Magazine": 150,
+        "Total Ammo": 300,
+        "Rate of Fire": 400,
+        "Damage": 23,
+        "Accuracy": 8,
+        "Stability": 24,
+        "Concealment": 16,
+        "Threat": 24
     }
 }

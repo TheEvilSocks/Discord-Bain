@@ -1,21 +1,17 @@
 {
     "name": "m32",
-    "fullName": "PIGLET GRENADE LAUNCHER",
-    "wikiName": "Piglet",
-    "dlc": "bbq",
     "image": "m32",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Piglet Grenade Launcher",
+    "type": "Special",
+    "slot": "primary",
     "stats": {
-        "magazine": 6,
-        "ammo": 12,
-        "firerate": 60,
-        "damage": 340,
-        "accuracy": 96,
-        "stability": 96,
-        "concealment": 10,
-        "threat": 37
+        "Magazine": 6,
+        "Total Ammo": 12,
+        "Rate of Fire": 60,
+        "Damage": 1300,
+        "Accuracy": 96,
+        "Stability": 96,
+        "Concealment": 10,
+        "Threat": 37
     }
 }

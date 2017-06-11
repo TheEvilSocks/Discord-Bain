@@ -1,21 +1,17 @@
 {
     "name": "famas",
-    "fullName": "CLARION RIFLE",
-    "wikiName": "Clarion",
-    "dlc": "gage_assault_pack",
     "image": "famas",
+    "fullName": "Clarion Rifle",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 27,
-    "cost": 605000,
     "stats": {
-        "magazine": 30,
-        "ammo": 240,
-        "firerate": 1000,
-        "damage": 35,
-        "accuracy": 36,
-        "stability": 68,
-        "concealment": 24,
-        "threat": 14
+        "Magazine": 30,
+        "Total Ammo": 240,
+        "Rate of Fire": 1000,
+        "Damage": 35,
+        "Accuracy": 36,
+        "Stability": 68,
+        "Concealment": 24,
+        "Threat": 14
     }
 }

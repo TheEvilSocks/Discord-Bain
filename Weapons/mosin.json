@@ -1,21 +1,17 @@
 {
     "name": "mosin",
-    "fullName": "NAGANT SNIPER RIFLE",
-    "wikiName": "Nagant",
-    "dlc": "gage_historical",
     "image": "mosin",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Nagant Sniper Rifle",
+    "type": "Sniper Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 5,
-        "ammo": 25,
-        "firerate": 60,
-        "damage": 280,
-        "accuracy": 92,
-        "stability": 12,
-        "concealment": 6,
-        "threat": 28
+        "Magazine": 5,
+        "Total Ammo": 25,
+        "Rate of Fire": 60,
+        "Damage": 300,
+        "Accuracy": 92,
+        "Stability": 12,
+        "Concealment": 6,
+        "Threat": 28
     }
 }

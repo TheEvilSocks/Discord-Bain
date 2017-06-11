@@ -1,21 +1,17 @@
 {
     "name": "msr",
-    "fullName": "RATTLESNAKE SNIPER RIFLE",
-    "wikiName": "Rattlesnake",
-    "dlc": "gage_sniper_pack",
     "image": "msr",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Rattlesnake Sniper Rifle",
+    "type": "Sniper Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 10,
-        "ammo": 40,
-        "firerate": 60,
-        "damage": 160,
-        "accuracy": 88,
-        "stability": 28,
-        "concealment": 5,
-        "threat": 26
+        "Magazine": 10,
+        "Total Ammo": 40,
+        "Rate of Fire": 60,
+        "Damage": 160,
+        "Accuracy": 88,
+        "Stability": 28,
+        "Concealment": 5,
+        "Threat": 26
     }
 }

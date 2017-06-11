@@ -1,21 +1,17 @@
 {
     "name": "benelli",
-    "fullName": "M1014 SHOTGUN",
-    "wikiName": "M1014",
-    "dlc": "gage_shotgun_pack",
     "image": "benelli",
+    "fullName": "M1014",
+    "type": "Shotgun",
     "slot": "primary",
-    "type": "shotgun",
-    "unlock": 8,
-    "cost": 327000,
     "stats": {
-        "magazine": 8,
-        "ammo": 64,
-        "firerate": 429,
-        "damage": 55,
-        "accuracy": 28,
-        "stability": 44,
-        "concealment": 12,
-        "threat": 26
+        "Magazine": 8,
+        "Total Ammo": 64,
+        "Rate of Fire": 428.6,
+        "Damage": 55,
+        "Accuracy": 28,
+        "Stability": 44,
+        "Concealment": 12,
+        "Threat": 26
     }
 }

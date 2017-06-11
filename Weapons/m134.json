@@ -1,21 +1,17 @@
 {
     "name": "m134",
-    "fullName": "VULCAN MINIGUN",
-    "wikiName": "Vulcan_Minigun",
-    "dlc": "overkillpack",
     "image": "m134",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Vulcan Minigun",
+    "type": "Special",
+    "slot": "primary",
     "stats": {
-        "magazine": 750,
-        "ammo": 750,
-        "firerate": 3000,
-        "damage": 38,
-        "accuracy": 16,
-        "stability": 4,
-        "concealment": 5,
-        "threat": 31
+        "Magazine": 750,
+        "Total Ammo": 750,
+        "Rate of Fire": 3000,
+        "Damage": 38,
+        "Accuracy": 16,
+        "Stability": 4,
+        "Concealment": 5,
+        "Threat": 31
     }
 }

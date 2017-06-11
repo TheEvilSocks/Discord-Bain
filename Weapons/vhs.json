@@ -1,21 +1,17 @@
 {
     "name": "vhs",
-    "fullName": "LION'S ROAR RIFLE",
-    "wikiName": "Lion's_Roar",
-    "dlc": "draganpack",
     "image": "vhs",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "Lion’s Roar Rifle",
+    "type": "Assault Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 30,
-        "ammo": 150,
-        "firerate": 857,
-        "damage": 40,
-        "accuracy": 60,
-        "stability": 60,
-        "concealment": 17,
-        "threat": 12
+        "Magazine": 30,
+        "Total Ammo": 150,
+        "Rate of Fire": 857.1,
+        "Damage": 40,
+        "Accuracy": 60,
+        "Stability": 60,
+        "Concealment": 17,
+        "Threat": 12
     }
 }

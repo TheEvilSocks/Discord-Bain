@@ -1,21 +1,17 @@
 {
     "name": "huntsman",
-    "fullName": "MOSCONI 12G SHOTGUN",
-    "wikiName": "Mosconi_12G",
-    "dlc": "normal",
     "image": "huntsman",
+    "fullName": "Mosconi 12G Shotgun",
+    "type": "Shotgun",
     "slot": "primary",
-    "type": "shotgun",
-    "unlock": 39,
-    "cost": 896000,
     "stats": {
-        "magazine": 2,
-        "ammo": 32,
-        "firerate": 500,
-        "damage": 145,
-        "accuracy": 60,
-        "stability": 36,
-        "concealment": 7,
-        "threat": 37
+        "Magazine": 2,
+        "Total Ammo": 32,
+        "Rate of Fire": 500,
+        "Damage": 155,
+        "Accuracy": 60,
+        "Stability": 36,
+        "Concealment": 7,
+        "Threat": 37
     }
 }

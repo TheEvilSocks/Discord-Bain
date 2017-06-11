@@ -1,21 +1,17 @@
 {
     "name": "flamethrower_mk2",
-    "fullName": "FLAMETHROWER",
-    "wikiName": "Flamethrower",
-    "dlc": "bbq",
     "image": "flamethrower_mk2",
+    "fullName": "Flamethrower",
+    "type": "Special",
     "slot": "primary",
-    "type": "special",
-    "unlock": 44,
-    "cost": 921000,
     "stats": {
-        "magazine": 300,
-        "ammo": 600,
-        "firerate": 2000,
-        "damage": 14,
-        "accuracy": 0,
-        "stability": 0,
-        "concealment": 7,
-        "threat": 37
+        "Magazine": 300,
+        "Total Ammo": 600,
+        "Rate of Fire": 2000,
+        "Damage": 14,
+        "Accuracy": 0,
+        "Stability": 0,
+        "Concealment": 7,
+        "Threat": 37
     }
 }

@@ -1,21 +1,17 @@
 {
     "name": "m16",
-    "fullName": "AMR-16 RIFLE",
-    "wikiName": "AMR-16",
-    "dlc": "normal",
     "image": "m16",
-    "slot": "undefined",
-    "type": "undefined",
-    "unlock": -9999999999,
-    "cost": -9999999999,
+    "fullName": "AMR-16",
+    "type": "Assault Rifle",
+    "slot": "primary",
     "stats": {
-        "magazine": 30,
-        "ammo": 90,
-        "firerate": 857,
-        "damage": 80,
-        "accuracy": 56,
-        "stability": 32,
-        "concealment": 17,
-        "threat": 14
+        "Magazine": 30,
+        "Total Ammo": 90,
+        "Rate of Fire": 857.1,
+        "Damage": 80,
+        "Accuracy": 56,
+        "Stability": 32,
+        "Concealment": 1,
+        "Threat": 14
     }
 }

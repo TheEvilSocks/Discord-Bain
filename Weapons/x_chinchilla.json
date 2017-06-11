@@ -1,0 +1,17 @@
+{
+    "name": "x_chinchilla",
+    "image": "x_chinchilla",
+    "fullName": "Akimbo Castigo .44",
+    "type": "Akimbo",
+    "slot": "primary",
+    "stats": {
+        "Magazine": 12,
+        "Total Ammo": 72,
+        "Rate of Fire": 361,
+        "Damage": 180,
+        "Accuracy": 76,
+        "Stability": 4,
+        "Concealment": 28,
+        "Threat": 24
+    }
+}

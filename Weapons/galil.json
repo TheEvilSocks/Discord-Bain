@@ -1,21 +1,17 @@
 {
     "name": "galil",
-    "fullName": "GECKO 7.62 RIFLE",
-    "wikiName": "Gecko_7.62",
-    "dlc": "gage_assault_pack",
     "image": "galil",
+    "fullName": "Gecko 7.62 Rifle",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 34,
-    "cost": 773000,
     "stats": {
-        "magazine": 30,
-        "ammo": 150,
-        "firerate": 845,
-        "damage": 42,
-        "accuracy": 40,
-        "stability": 68,
-        "concealment": 15,
-        "threat": 24
+        "Magazine": 30,
+        "Total Ammo": 150,
+        "Rate of Fire": 845.1,
+        "Damage": 42,
+        "Accuracy": 48,
+        "Stability": 68,
+        "Concealment": 15,
+        "Threat": 24
     }
 }

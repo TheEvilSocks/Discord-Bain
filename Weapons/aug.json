@@ -1,21 +1,17 @@
 {
     "name": "aug",
-    "fullName": "UAR RIFLE",
-    "wikiName": "UAR",
-    "dlc": "normal",
     "image": "aug",
+    "fullName": "UAR",
+    "type": "Assault Rifle",
     "slot": "primary",
-    "type": "assault_rifle",
-    "unlock": 8,
-    "cost": 176000,
     "stats": {
-        "magazine": 30,
-        "ammo": 150,
-        "firerate": 750,
-        "damage": 38,
-        "accuracy": 64,
-        "stability": 40,
-        "concealment": 20,
-        "threat": 14
+        "Magazine": 30,
+        "Total Ammo": 150,
+        "Rate of Fire": 750,
+        "Damage": 38,
+        "Accuracy": 64,
+        "Stability": 40,
+        "Concealment": 20,
+        "Threat": 14
     }
 }
