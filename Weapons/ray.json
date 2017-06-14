@@ -1,0 +1,17 @@
+{
+    "name": "ray",
+    "image": "ray",
+    "fullName": "Commando 101 Rocket Launcher",
+    "type": "Special",
+    "slot": "secondary",
+    "stats": {
+        "Magazine": 4,
+        "Total Ammo": 8,
+        "Rate of Fire": 60,
+        "Damage": 5000,
+        "Accuracy": 96,
+        "Stability": 96,
+        "Concealment": 5,
+        "Threat": 37
+    }
+}

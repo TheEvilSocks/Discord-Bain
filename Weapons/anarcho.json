@@ -1,16 +1,16 @@
 {
-    "name": "judge",
-    "fullName": "The Judge",
-    "dlc": "community",
-    "image": "judge",
+    "name": "anarcho",
+    "fullName": "Anarcho",
+    "image": "anarcho",
     "slot": "secondary",
     "type": "shotgun",
+    "legendary": true,
     "stats": {
         "magazine": 5,
         "ammo": 25,
         "firerate": 500,
         "damage": 155,
-        "accuracy": 52,
+        "accuracy": 48,
         "stability": 28,
         "concealment": 29,
         "threat": 28

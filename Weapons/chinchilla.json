@@ -1,0 +1,17 @@
+{
+    "name": "chinchilla",
+    "image": "chinchilla",
+    "fullName": "Castigo .44",
+    "type": "Pistol",
+    "slot": "secondary",
+    "stats": {
+        "Magazine": 6,
+        "Total Ammo": 54,
+        "Rate of Fire": 361,
+        "Damage": 180,
+        "Accuracy": 76,
+        "Stability": 4,
+        "Concealment": 28,
+        "Threat": 24
+    }
+}

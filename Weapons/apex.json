@@ -1,0 +1,18 @@
+{
+    "name": "apex",
+    "image": "apex",
+    "fullName": "Apex",
+    "type": "Shotgun",
+    "slot": "primary",
+    "legendary": true,
+    "stats": {
+        "Magazine": 7,
+        "Total Ammo": 21,
+        "Rate of Fire": 80,
+        "Damage": 155,
+        "Accuracy": 44,
+        "Stability": 28,
+        "Concealment": 20,
+        "Threat": 28
+    }
+}

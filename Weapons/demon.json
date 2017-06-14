@@ -1,17 +1,17 @@
 {
-    "name": "serbu",
-    "fullName": "LOCOMOTIVE 12G SHOTGUN",
-    "wikiName": "Locomotive_12G_(Payday_2)",
+    "name": "demon",
+    "fullName": "Demon",
     "dlc": "normal",
-    "image": "serbu",
+    "image": "demon",
     "slot": "secondary",
     "type": "shotgun",
+    "legendary": true,
     "stats": {
         "magazine": 6,
         "ammo": 42,
         "firerate": 160,
         "damage": 58,
-        "accuracy": 48,
+        "accuracy": 47,
         "stability": 36,
         "concealment": 23,
         "threat": 28

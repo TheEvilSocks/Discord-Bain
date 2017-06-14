@@ -1,0 +1,18 @@
+{
+    "name": "assassin",
+    "image": "assassin",
+    "fullName": "Assassin",
+    "type": "Akimbo",
+    "slot": "primary",
+    "legendary": true,
+    "stats": {
+        "Magazine": 60,
+        "Total Ammo": 120,
+        "Rate of Fire": 821.9,
+        "Damage": 80,
+        "Accuracy": 60,
+        "Stability": 45,
+        "Concealment": 21,
+        "Threat": 22
+    }
+}

@@ -1,10 +1,11 @@
 {
-    "name": "p90",
-    "fullName": "Kobus 90",
+    "name": "alamodallas",
+    "fullName": "Alamo Dallas",
     "dlc": "normal",
-    "image": "p90",
+    "image": "alamodallas",
     "slot": "secondary",
     "type": "smg",
+    "legendary": true,
     "stats": {
         "magazine": 50,
         "ammo": 150,
