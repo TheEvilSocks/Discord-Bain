@@ -1,0 +1,17 @@
+{
+    "name": "coal",
+    "image": "coal",
+    "fullName": "Tatonka Submachine Gun",
+    "type": "SMG",
+    "slot": "secondary",
+    "stats": {
+        "Magazine": 64,
+        "Total Ammo": 128,
+        "Rate of Fire": 652,
+        "Damage": 80,
+        "Accuracy": 52,
+        "Stability": 52,
+        "Concealment": 24,
+        "Threat": 10
+    }
+}

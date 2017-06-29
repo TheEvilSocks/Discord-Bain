@@ -1,0 +1,17 @@
+{
+    "name": "lemming",
+    "image": "lemming",
+    "fullName": "5/7 AP Pistol",
+    "type": "Pistol",
+    "slot": "secondary",
+    "stats": {
+        "Magazine": 15,
+        "Total Ammo": 45,
+        "Rate of Fire": 600,
+        "Damage": 120,
+        "Accuracy": 72,
+        "Stability": 44,
+        "Concealment": 29,
+        "Threat": 9
+    }
+}
