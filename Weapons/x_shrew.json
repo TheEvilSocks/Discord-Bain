@@ -1,0 +1,17 @@
+{
+    "name": " x_shrew",
+    "image": " x_shrew",
+    "fullName": "Akimbo Crosskill Guard",
+    "type": "Akimbo Pistol",
+    "slot": "primary",
+    "stats": {
+        "Magazine": 34,
+        "Total Ammo": 170,
+        "Rate of Fire": 667,
+        "Damage": 37,
+        "Accuracy": 64,
+        "Stability": 60,
+        "Concealment": 30,
+        "Threat": 8
+    }
+}
