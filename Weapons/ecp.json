@@ -1,0 +1,17 @@
+{
+    "name": "ecp",
+    "image": "ecp",
+    "fullName": "Airbow",
+    "type": "Special",
+    "slot": "primary",
+    "stats": {
+        "Magazine": 6,
+        "Total Ammo": 30,
+        "Rate of Fire": 120,
+        "Damage": 700,
+        "Accuracy": 84,
+        "Stability": 84,
+        "Concealment": 28,
+        "Threat": 10
+    }
+}
