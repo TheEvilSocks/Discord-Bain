@@ -1,0 +1,17 @@
+{
+    "name": "x_basset",
+    "image": "x_basset",
+    "fullName": "Brothers Grimm 12G",
+    "type": "Akimbo Shotgun",
+    "slot": "primary",
+    "stats": {
+        "Magazine": 16,
+        "Total Ammo": 96,
+        "Rate of Fire": 333,
+        "Damage": 18,
+        "Accuracy": 12,
+        "Stability": 24,
+        "Concealment": 21,
+        "Threat": 28
+    }
+}
